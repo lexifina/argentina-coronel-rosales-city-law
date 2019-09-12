@@ -1,0 +1,1 @@
+ARTICULO Nº 2: Facultase al Departamento Ejecutivo a modificar el Cálculo de Recursos 2017 en la suma de PESOS VENTIOCHO MILLONES ($28.000.000) de acuerdo a lo detallado en el Anexo I que se adjunta y forma parte de la presente.

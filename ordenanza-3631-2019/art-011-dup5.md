@@ -1,0 +1,1 @@
+ARTICULO Nº 11.3: Asignaciones Familiares. Fijase las asignaciones familiares para el Personal Municipal conforme a los montos y conceptos establecidos por la ley 24.714 sus modificatorias y complementarias.

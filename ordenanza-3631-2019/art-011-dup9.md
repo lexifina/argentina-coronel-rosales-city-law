@@ -1,0 +1,1 @@
+ARTICULO Nº 11.7: Funcionarios para cuyo nombramiento y/ o remoción las leyes fijen procedimientos determinados. Para los funcionarios mencionados, Contador Municipal, Jefe de Compras y Tesorero Municipal, rigen bonificaciones previstas en la Ordenanza Nº 2.934. Para el Secretario de Juez de Falta rigen las disposiciones de la Ordenanza Nº 2.220 y sus modificatorias.

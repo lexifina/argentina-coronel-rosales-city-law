@@ -1,0 +1,1 @@
+ARTICULO Nº 11.5: Antigüedad. El personal municipal, incluidos los funcionarios para cuyo nombramiento y/o remoción las leyes fijen procedimientos determinados, incluidos el Intendente Municipal, percibirán en concepto de antigüedad un importe equivalente al determinado en el artículo 91 del Convenio Colectivo de Trabajo aprobado por Ordenanza nº 3561/2016.

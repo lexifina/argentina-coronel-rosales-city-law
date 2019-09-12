@@ -1,0 +1,2 @@
+ARTICULO 11.10: Intendente Municipal. La remuneración del Intendente Municipal de determinará en función a lo dispuesto en el artículo 125 de la Ley Orgánica de las Municipalidades Decreto-Ley 6768/58.-
+Conforme las previsiones establecida y aprobadas mediante la sanción de la Ordenanza Fiscal e Impositiva 2017 para el partido de Coronel Rosales, las previsiones anteriores tendrán las siguientes modificaciones en los ítems correspondientes

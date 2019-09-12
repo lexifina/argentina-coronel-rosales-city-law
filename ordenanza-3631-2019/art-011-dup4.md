@@ -1,0 +1,1 @@
+ARTICULO Nº 11.2: Escala de Sueldos. Apruébese la escala de sueldos del Personal Municipal, funcionarios políticos designado por el Intendente Municipal y Funcionarios de Ley Orgánica, conforme al Anexo “B” , que forma parte de la presente Ordenanza.

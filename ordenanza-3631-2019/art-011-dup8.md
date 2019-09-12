@@ -1,0 +1,1 @@
+ARTICULO Nº 11.6: Incremento de Haberes. Facultase al Departamento Ejecutivo a disponer incrementos de haberes y bonificaciones; al Personal Político y de Ley Orgánica, hasta un porcentaje equivalente al otorgado al Personal de planta permanente.
