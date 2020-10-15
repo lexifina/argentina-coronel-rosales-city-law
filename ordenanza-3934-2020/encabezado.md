@@ -1,0 +1,7 @@
+Ordenanza Nº3934
+Ordenanza Nº 3934
+Coronel Rosales, 23/07/2020
+ORDENANZA
+Corresp. Expte. O-18-2020
+CAPITULO I
+DISPOSICIONES GENERALES
