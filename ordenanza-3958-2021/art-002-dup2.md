@@ -1,0 +1,4 @@
+ARTÍCULO 2º: Regístrese, Comuníquese, Dese al Boletín Municipal, Hecho, Archívese.
+SANCIONADA POR EL HONORABLE CONCEJO DELIBERANTE DEL PARTIDO DE CORONEL DE MARINA LEONARDO ROSALES EN LA CIUDAD CABECERA DE PUNTA ALTA, A LOS OCHO DIAS DEL MES DE OCTUBRE DEL AÑO DOS MIL VEINTE.
+Firmado Nicolás Aramayo Presidente
+Pablo Zaragoza Secretario Legislativo
