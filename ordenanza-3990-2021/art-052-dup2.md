@@ -1,0 +1,1 @@
+Artículo Nº 52: Para la determinación y aplicación de la presente tasa se establece un porcentaje fijo mensual del 33% del importe liquidado para los contribuyentes de la TASA POR SERVICIOS URBANOS y TASA POR CONSERVACION, REPARACION, MEJORADO DE LA RED VIAL MUNICIPAL Y SERVICIOS GENERALES.

@@ -1,0 +1,1 @@
+Artículo Nº 28: En los casos de demoliciones en el cementerio se cobrará el 30% del valor de acuerdo al tipo de construcción de que se trate, según lo establecido en el artículo 27° y se le adicionará el inciso d) 2 del artículo 22°, ambos de la presente Ordenanza Impositiva

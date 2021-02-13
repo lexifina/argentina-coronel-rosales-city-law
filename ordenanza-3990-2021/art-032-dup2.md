@@ -1,0 +1,1 @@
+Artículo Nº 32: Para los casos de Vivienda económica establecidos conforme al artículo 240 de la Ordenanza Fiscal anual, se establece como monto máximo de ingreso mensual del grupo familiar solicitante 80.000 MOD.
