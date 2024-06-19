@@ -1,0 +1,1 @@
+Artículo 3°: El Departamento Ejecutivo a través de la Dirección de Tránsito o la que en un futuro la reemplace será la encargada de comunicar a las empresas de larga distancia el recorrido que deberán realizar dentro de la ciudad.-
