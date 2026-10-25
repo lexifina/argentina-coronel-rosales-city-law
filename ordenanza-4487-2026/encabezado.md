@@ -1,0 +1,6 @@
+Ordenanza Nº4487
+Ordenanza Nº 4487
+Coronel Rosales, 13/08/2026
+ORDENANZA
+EX2025-000100461- -MUNICRO#SG Alc. 1
+O R D E N A N Z A
