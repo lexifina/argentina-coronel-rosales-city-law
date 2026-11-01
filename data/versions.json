@@ -1,0 +1,2805 @@
+{
+ "country": "AR-B-CORONEL-ROSALES",
+ "acts": [
+  {
+   "slug": "ordenanza-3567-2019",
+   "short": "Ordenanza 3567/2019",
+   "title": "Ordenanza 3567/2019: Autorizase a la Asociación Taxistas Unidos de Punta Alta, a aplicar la escala tarifaria para el servicio de Taxis, que a continuación se detalla",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367350",
+   "versions": [
+    {
+     "from": "2019-09-03",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367350",
+     "sha256": "a33e20693abf72a951ee1fe5e4a4b05d2da43bd10a0525cf2ab65ba12907a752"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3562-2019",
+   "short": "Ordenanza 3562/2019",
+   "title": "Ordenanza 3562/2019: Ratificase la firma del Convenio de Cooperación suscripto entre la Agencia Provincial de Transporte de la Provincia de Buenos Aires y este Municipio, a través del cual ambas partes colaborarán en el contralor de los serv",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367345",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367345",
+     "sha256": "f9de29a1857f96efff306572ec51d470a06a0933de3c77a0333b7227477e6af3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3566-2019",
+   "short": "Ordenanza 3566/2019",
+   "title": "Ordenanza 3566/2019: Autorízase a partir del 1º de Abril del año 2016 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros del Distrito de Coronel Rosales:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367349",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367349",
+     "sha256": "4e44b259f7a5bcd368f223824cb60e6858ed1a35529becacf6a0914007b044eb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3579-2019",
+   "short": "Ordenanza 3579/2019",
+   "title": "Ordenanza 3579/2019: Conformar en el Distrito de Coronel Rosales una Comisión Distrital cuya denominación será: Mesa de Salud y Educación, en orden a lo dispuesto por los artículos 23° y 24° de la ley 14.556.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367369",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367369",
+     "sha256": "5148d354975c9cfe927d2c3464ea544aa416c7993aeffd7985d97ca3f02793aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3589-2019",
+   "short": "Ordenanza 3589/2019",
+   "title": "Ordenanza 3589/2019: Establécese la prohibición de estacionar en el sector correspondiente a la calle Espora entre Río Bermejo y Río Limay de la Ciudad de Punta Alta, sobre el margen par de la misma.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367421",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367421",
+     "sha256": "c443b47f2c7303001e161419a7638c128f6baddc0b82d5ae301e8773f268b273"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3590-2019",
+   "short": "Ordenanza 3590/2019",
+   "title": "Ordenanza 3590/2019: Establécese la prohibición de estacionar en el sector correspondiente a la calle Pueyrredón de la ciudad de Punta Alta, entre Quintana y 9 de Julio, sobre la margen par de la misma.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367431",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367431",
+     "sha256": "9d9f5d4c073c039bb0abd732747cc01b10c094ec310a31be1e18de8f8d57876f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3593-2019",
+   "short": "Ordenanza 3593/2019",
+   "title": "Ordenanza 3593/2019: Prohíbase el estacionamiento vehicular sobre la margen de los números impares de la calle Villanueva entre 25 de Mayo y Espora, las 24 hs del día.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367461",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367461",
+     "sha256": "ed93be9512c21115888956689c07569f3b052b208bb8ad7be7fe17934e39e7fd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3595-2019",
+   "short": "Ordenanza 3595/2019",
+   "title": "Ordenanza 3595/2019: Declárase de utilidad pública y pago obligatorio para los propietarios de los inmuebles afectados por la ejecución de la obra “ Pavimentación de calle Jujuy entre calles San Luis y Mendoza, calle Jujuy entre Tierra del F",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367505",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367505",
+     "sha256": "c3dee6968bdd2967c7f9e7df97667c301913d6982b5e073f48989e8dcdb26417"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3596-2019",
+   "short": "Ordenanza 3596/2019",
+   "title": "Ordenanza 3596/2019: Modifíquese del Título III el artículo 5º de la Ordenanza 3.065, el cual quedara redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367509",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367509",
+     "sha256": "6259be439d34aff631ab2fd96a1edc34b4d7cb601dc5d5e1e57b663d5ca6da4c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3600-2019",
+   "short": "Ordenanza 3600/2019",
+   "title": "Ordenanza 3600/2019: Modifícase el Artículo 1º de la Ordenanza 3405, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367523",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367523",
+     "sha256": "4863151f76166d969cff0f2714c2b880a84e7fe63fa325eeb3dd71dce2508b7e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3602-2019",
+   "short": "Ordenanza 3602/2019",
+   "title": "Ordenanza 3602/2019: Créase en el ámbito de la Municipalidad de Coronel Rosales, el “Coro Municipal de Lenguas de Seña”, dependiente de la Secretaría Acción Social.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367533",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367533",
+     "sha256": "f6fa94327268126ad514dbb9921641d8d6e01cc66899be539631f4095d287616"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3605-2019",
+   "short": "Ordenanza 3605/2019",
+   "title": "Ordenanza 3605/2019: Declárase de utilidad pública y pago obligatorio para los propietarios de los inmuebles afectados por la ejecución de la obra de construcción de cordón cuneta en calle Chacabuco, entre Hipólito Irigoyen y Jesús María.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367548",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367548",
+     "sha256": "fdc16d088e5b67c9e8858534dbd154690175fc205454366f34d9b71dd2ae4446"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3615-2019",
+   "short": "Ordenanza 3615/2019",
+   "title": "Ordenanza 3615/2019: Nomínese “Plazoleta del Trabajador Ferroviario” al espacio verde ubicado en el acceso a la Estación Ferroviaria Almirante Solier en calle Rosales entre el 800 y 900.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367666",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367666",
+     "sha256": "21e80754c318c0798009e008360c47df87a12e60f4dd57a779724ad60af01c89"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3623-2019",
+   "short": "Ordenanza 3623/2019",
+   "title": "Ordenanza 3623/2019: Prohíbase el estacionamiento vehicular en ambas manos, en el sector de Avenida Ameghino entre calle 8 y Avenida González Martínez (costanera)",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367710",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367710",
+     "sha256": "cb8572137de12f493a015d0611177d341c717ab09944dff3849e71c42bfb0f0f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3631-2019",
+   "short": "Ordenanza 3631/2019",
+   "title": "Ordenanza 3631/2019: 1: La Municipalidad de Coronel de Marina Leonardo Rosales, se regirá durante el año 2017 por el Cálculo de Recursos y Presupuesto de Gastos, cuya cuantificación y detalle, se adjunta como Anexo I, documentación que forma",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367780",
+   "versions": [
+    {
+     "from": "2019-09-12",
+     "units": 29,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2618/contents/1367780",
+     "sha256": "de74b0697c9e8315cee35415540c7bd153beed343cecaf89886c0b23ed157fcd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3637-2019",
+   "short": "Ordenanza 3637/2019",
+   "title": "Ordenanza 3637/2019: A partir del segundo semestre del año 2017 se establece que en todo tipo de documentación incluidas las tasas y derechos municipales que emita el Departamento Ejecutivo Municipal se consigne la leyenda “Donar Órganos Sal",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370589",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370589",
+     "sha256": "a643cd2f98bc0cc46a0f6c4b8415b4e0ff36a2de4727c3452c461259826d4d7f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3645-2019",
+   "short": "Ordenanza 3645/2019",
+   "title": "Ordenanza 3645/2019: Modificase el Artículo 3º de la Ordenanza 3193, el que quedará redactado de la siguiente forma:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370694",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370694",
+     "sha256": "b666732d65dec6aa45bf0ee52939c56a10473ac5f2306e56c206d51663a4fa12"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3648-2019",
+   "short": "Ordenanza 3648/2019",
+   "title": "Ordenanza 3648/2019: Prohíbase en el Distrito de Coronel Rosales y en todos los predios de disposición final de residuos sólidos urbanos a cielo abierto la quema o incineración de material e cualquier horario y por cualquier motivo.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370708",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370708",
+     "sha256": "1ad3282d525f06efae77724d042a48ce132fce55abff8017b1a3d9a9846aee26"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3653-2019",
+   "short": "Ordenanza 3653/2019",
+   "title": "Ordenanza 3653/2019: Determínese para el transporte de larga distancia el siguiente recorrido:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370821",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370821",
+     "sha256": "da5a2072f9b58509a41cfdff09e486afb3e7268f5ae1a5ef54ccf0dde6ef1758"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3654-2019",
+   "short": "Ordenanza 3654/2019",
+   "title": "Ordenanza 3654/2019: Prohíbase el estacionamiento sobre la margen de los números impares de la calle Río Grande, entre la Ruta 229 y la calle Humberto Primo, las 24 hs. del día.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370822",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370822",
+     "sha256": "77567a82a3dd88c3a34af31922577862c124ad6cecae2dc0fcac7b994327427f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3661-2019",
+   "short": "Ordenanza 3661/2019",
+   "title": "Ordenanza 3661/2019: Créase a partir del 1º de enero de 2018 el programa “Escuelas Rosaleñas Accesibles y Seguras” con financiamiento afectado al Fondo de Financiamiento Educativo.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370829",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370829",
+     "sha256": "33f7c08ec288b0904cd7f8aa4189b908f9176176a63169c50dc8c86a619bc6df"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3668-2019",
+   "short": "Ordenanza 3668/2019",
+   "title": "Ordenanza 3668/2019: Autorízase al Departamento Ejecutivo a intervenir en los términos del Artículo 27, inc. 2 de la Ley Orgánica de las Municipalidades, Decreto 6769/58, el espacio público Parque San Martín, de acuerdo a las condiciones est",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370952",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1370952",
+     "sha256": "e5f3cec78395c4e8bf4ac37d4acb00a9dfdd37bacc5b6b59a1978a3c8d377f71"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3676-2019",
+   "short": "Ordenanza 3676/2019",
+   "title": "Ordenanza 3676/2019: Autorízase al Departamento Ejecutivo a suscribir el Acuerdo Marco de colaboración entre el Centro Científico Tecnológico CONICET - Bahía Blanca y la Municipalidad de Coronel Rosales.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371239",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371239",
+     "sha256": "625876de235cf62702b8f8cd69b0e23662a79fcd6290ad97010587e222ebd074"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3678-2019",
+   "short": "Ordenanza 3678/2019",
+   "title": "Ordenanza 3678/2019: Ratifícase el Convenio Marco suscripto entre la Licenciada Laura Alonso, en representación de la Oficina Anticorrupción del Ministerio de Justicia y Derechos Humanos de la Nación, la Oficina de Fortalecimiento, represent",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371241",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371241",
+     "sha256": "72f488d9c695a13f616a6bc561c57f3af8ab7dca1607bc9c59b0befaab8a67c7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3683-2019",
+   "short": "Ordenanza 3683/2019",
+   "title": "Ordenanza 3683/2019: Modifícase la Ordenanza 3367 la cual quedará redactada de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371246",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371246",
+     "sha256": "7583edddcfd716f5c98e51aa29eb5a7c4e0c18bc8500a65bacf88515b7977de5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3684-2019",
+   "short": "Ordenanza 3684/2019",
+   "title": "Ordenanza 3684/2019: DEL REGISTRO: Créase el Registro Municipal de automóviles y motocicletas antiguos clásicos y de colección, que funcionará bajo la órbita de la Dirección de Tránsito y transporte de la Municipalidad de Coronel Rosales y/o",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371247",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371247",
+     "sha256": "b39fcd6104e702e5b87426dcb5aae020e5c027f62c9b52c7ca99be51d4efa356"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3687-2019",
+   "short": "Ordenanza 3687/2019",
+   "title": "Ordenanza 3687/2019: Desígnese a la plaza ubicada en el barrio ATE VIII, entre las calles Roca y Ruta 229, con el nombre de “ARA Aviso Sobral”, colocándose en la misma el cartel señalado.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371250",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371250",
+     "sha256": "ebdbb405d4ba3aa2ed5506d0f7fdf04a1fe53ed7d317bedc229a5ef7b6a44303"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3696-2019",
+   "short": "Ordenanza 3696/2019",
+   "title": "Ordenanza 3696/2019: Modifíquese el Artículo 8º de la Ordenanza 3193 (Modificado por las Ordenanzas 3214 y 3685), el cual quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371339",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371339",
+     "sha256": "5e4266ddae534ec6c30503dc98b043154bafcb2c738b6f3845a6e4a968f1f1f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3704-2019",
+   "short": "Ordenanza 3704/2019",
+   "title": "Ordenanza 3704/2019: Autorizase al Departamento Ejecutivo a adjudicar la concesión de Uso y Explotación del Predio y Pileta Municipal de Villa del Mar, Circunscripción V-N-F-11, Parcela 3 al señor Rubén Fernando Sambuceti.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371424",
+   "versions": [
+    {
+     "from": "2019-09-20",
+     "units": 2,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2646/contents/1371424",
+     "sha256": "8d22e223ef49f11a7f1dfed4f189a6b440eaa6229a7c01ca7fbf938acfd44248"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3714-2019",
+   "short": "Ordenanza 3714/2019",
+   "title": "Ordenanza 3714/2019: Autorizase la cesión a la Asociación Bomberos Voluntarios de Pehuén Có, de la Reserva de Equipamiento Comunitario identificada catastralmente como circunscripción VII, Sección A, Manzana 101, Parcela 2, Partida Nº 8365, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1374432",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1374432",
+     "sha256": "105f23c81c8816992e18575c5deb944bc5fc2011e0e558316b214fad9b974ff6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3730-2019",
+   "short": "Ordenanza 3730/2019",
+   "title": "Ordenanza 3730/2019: Ratifícase el Acta Convenio suscripto entre el Ministerio de Desarrollo Social de la Provincia de Buenos Aires, representado por el señor Ministro Santiago López Medrano y el Municipio de Coronel Rosales, representado po",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1374909",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1374909",
+     "sha256": "89efe983a34e88792a9bc0fbc1a514a1d8462cba7503762136e9c98f44cf8d05"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3732-2019",
+   "short": "Ordenanza 3732/2019",
+   "title": "Ordenanza 3732/2019: La presente Ordenanza tiene por objeto regular los lugares previstos para el estacionamiento de vehículos utilizados por personas con discapacidad motriz y/o sensorial visual, así como las áreas de ascenso y descenso de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1374911",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1374911",
+     "sha256": "6e85ca37b215d551a889e562746ec38a2a126eb0d60cdd17f965f869768e639d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3735-2019",
+   "short": "Ordenanza 3735/2019",
+   "title": "Ordenanza 3735/2019: Adhiérase al Decreto 05/2018 por el que se declara el Año del Centenario de la Reforma Universitaria.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1374925",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1374925",
+     "sha256": "ff0041d47ad1de350b1084b35e868428d13e6490432713ffe54ac65ad873d4bf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3736-2019",
+   "short": "Ordenanza 3736/2019",
+   "title": "Ordenanza 3736/2019: Declárese “Patrimonio Histórico Cultural” del Partido de Coronel de Marina Leonardo Rosales al mural denominado “ARA San Juan -44- En patrulla eterna”, ubicado en la calle Florida Nº 570.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1374932",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1374932",
+     "sha256": "66a98a78d034b81eef316ef141505ab3d18b34aa98ba7ad1f363ed4fd84c4fc5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3739-2019",
+   "short": "Ordenanza 3739/2019",
+   "title": "Ordenanza 3739/2019: Establézcase como objeto de la presente Ordenanza la regulación referida a la instalación y funcionamiento del servicio de crematorios de cadáveres y restos humanos en el distrito de Coronel Rosales.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1375112",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 55,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1375112",
+     "sha256": "090430f68728151e0b6fb280848f53b659d0c2b942c97c5f32f3fa0f251338d5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3740-2019",
+   "short": "Ordenanza 3740/2019",
+   "title": "Ordenanza 3740/2019: Ratifícase el Convenio de Uso y Colaboración suscripto entre el Rector de la Universidad Provincial del Sudoeste, UPSO, Dr. Hernán Pedro Vigier y el Municipio de Coronel Rosales representado por su Intendente, Lic. Maria",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1375113",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1375113",
+     "sha256": "7b8f636b03316c400c07d503cbe41f8dd95329d4b290e32ac65bbf777c816375"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3751-2019",
+   "short": "Ordenanza 3751/2019",
+   "title": "Ordenanza 3751/2019: Impóngase el nombre de MIGUEL PONS, al denominado “Camino Corto a Pehuén Có”, el cual une dicha localidad balnearia con la Ruta Nº 249, colocándose en la misma el cartel señalizador y/o nomenclador correspondiente.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1375976",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1375976",
+     "sha256": "54ae795770fc559ee31d54b77a06dfc84f08b8e0cb1c7796248e780c7749a2d3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3753-2019",
+   "short": "Ordenanza 3753/2019",
+   "title": "Ordenanza 3753/2019: La Municipalidad de Coronel de Marina Leonardo Rosales facilitará la copia de un plano estándar de nicho para hasta dos (2) ataúdes a aquellos herederos que lo soliciten y que no puedan afrontar los gastos del mismo de m",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1375978",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1375978",
+     "sha256": "372d90a165473bc54dc7ea08f8a8b7a856f954a10a237805a81c811786fddfdd"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3759-2019",
+   "short": "Ordenanza 3759/2019",
+   "title": "Ordenanza 3759/2019: Incorpórese el Artículo 169º bis a la Ordenanza 1999, Código de Faltas Municipal, el cual quedará redactado de la siguiente forma:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1375993",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1375993",
+     "sha256": "16842c4a68f681d04b86a5c9919200eb0e29012a7147ba247580560a3c597ce5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3772-2019",
+   "short": "Ordenanza 3772/2019",
+   "title": "Ordenanza 3772/2019: Impóngase el nombre de “Don Antonio Salvador Cartolano”, al Pasaje ubicado en el Parque San Martin, colocándose en el mismo el cartel señalizador y/o nomenclador correspondiente.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1376522",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1376522",
+     "sha256": "cab128fd554babccc8271b366c6ee5543e1e9ac6ab26e658777552e1fa5d00a5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3788-2019",
+   "short": "Ordenanza 3788/2019",
+   "title": "Ordenanza 3788/2019: Adhiérase el Municipio de Coronel Rosales a la Ley Provincial 13.295 de Responsabilidad Fiscal Municipal, conforme la modificación introducida por la Ley 14.984.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1376818",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1376818",
+     "sha256": "f4c169ffc3b9fef1517f14edfb3756f28bb44a871b7f55cf390f13f770717225"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3789-2019",
+   "short": "Ordenanza 3789/2019",
+   "title": "Ordenanza 3789/2019: Acéptense las donaciones gratuitas y sin cargo, a favor de la Municipalidad de Coronel Rosales, de las esculturas realizadas en el encuentro “Primer Encuentro Nacional de Escultores: Tallando Identidad” y de las que se e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1376827",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1376827",
+     "sha256": "bce79be42ab837c9303a24ffc617fd51c72d379e4ce274190a9ca603ea46fc4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3796-2019",
+   "short": "Ordenanza 3796/2019",
+   "title": "Ordenanza 3796/2019: Facúltese al Departamento Ejecutivo a modificar (disminuir) el Cálculo de Recursos y Presupuesto de Gastos 2019 en la suma de PESOS CINCO MILLONES ($5.000.000).-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1376871",
+   "versions": [
+    {
+     "from": "2019-10-05",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2673/contents/1376871",
+     "sha256": "13ab5efac3fdb5aa92389bd747fe22f8bd14f94cab3968c4f81cea6cd235f2c0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3799-2019",
+   "short": "Ordenanza 3799/2019",
+   "title": "Ordenanza 3799/2019: OBJETO Y AMBITO DE LA APLICACIÓN – La presente ordenanza regula la circulación de vehículos denominados cuatriciclos, triciclos motorizados dentro del Distrito de Coronel Rosales, sin perjuicio de las normas de tránsito ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380446",
+   "versions": [
+    {
+     "from": "2019-10-18",
+     "units": 18,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380446",
+     "sha256": "19e88c8f181f060e89075970a068b9a5ceaa663e39bcbb2229beb3fb5b18899c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3801-2019",
+   "short": "Ordenanza 3801/2019",
+   "title": "Ordenanza 3801/2019: Autorizase a partir del día 1 del mes de Febrero de 2019 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros del Distrito de Coronel Rosales:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380448",
+   "versions": [
+    {
+     "from": "2019-10-18",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380448",
+     "sha256": "80227fb304bb37bdc2a488995559cbaee838dd8e17aa253c681dc2ec054dc450"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3802-2019",
+   "short": "Ordenanza 3802/2019",
+   "title": "Ordenanza 3802/2019: Ratifícase la firma del Convenio Marco suscripto entre esta Comuna y el Ministerio de Justicia de la Provincia de Buenos Aires, relativo a la Cooperación Institucional entre ambas reparticiones con el objeto de crear una",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380451",
+   "versions": [
+    {
+     "from": "2019-10-18",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380451",
+     "sha256": "8b8f6963fbcc6eff73b55202b90812de71c50357858e0977cbfa91a02225994c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3811-2019",
+   "short": "Ordenanza 3811/2019",
+   "title": "Ordenanza 3811/2019: Autorízase la apertura del pasaje sin nombre comprendido entre las calles Villanueva y Alem y que une las calles Brown y España de la ciudad de Punta Alta.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380492",
+   "versions": [
+    {
+     "from": "2019-10-18",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380492",
+     "sha256": "b35f2dbbd1224ba0ccca0e1945fff20722e3590d3beed71db7549e32b0eb6c81"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3816-2019",
+   "short": "Ordenanza 3816/2019",
+   "title": "Ordenanza 3816/2019: La Municipalidad de Coronel Rosales se adhiere en todos su términos al Programa Nacional de Descontaminación, Compactación y Disposición Final de Vehículos y Chatarra (PRO.NA.COM) implementado por Ley Nº 26348.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2759/contents/1385526",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2759/contents/1385526",
+     "sha256": "3b0d3acef29a8dd54818c0b70900cb940180fe466995d8d6730798aeb51a85ea"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3817-2019",
+   "short": "Ordenanza 3817/2019",
+   "title": "Ordenanza 3817/2019: Autorícese al Departamento Ejecutivo a la realización de las modificaciones presupuestarias y de todos aquellos trámites y/o gestiones que juzgue convenientes para la obtención del apoyo económico provincial y nacional n",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2759/contents/1385527",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2759/contents/1385527",
+     "sha256": "fa513278cae7077ad56a5571aeab46e8a536495d1087b5ac25f147adf23b84ba"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3823-2019",
+   "short": "Ordenanza 3823/2019",
+   "title": "Ordenanza 3823/2019: Autorízase al Departamento Ejecutivo Municipal, en los términos del Artículo 41º de la Ley Orgánica de las Municipalidades, a suscribir el “Convenio de Adhesión para la implementación del Documento Unico de Traslado (DUT",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2759/contents/1385541",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2759/contents/1385541",
+     "sha256": "be13728fb8f29dfaf9ca5148c23545e7797df1a35f23f85f4072c5c836cb641b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3830-2019",
+   "short": "Ordenanza 3830/2019",
+   "title": "Ordenanza 3830/2019: Créase el \"Régimen Municipal de Viviendas\", cuyo objetivo prioritario será el diseño, la definición e implementación de políticas y estrategias tendientes al mejoramiento de la situación habitacional de la población del ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2759/contents/1385578",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 30,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2759/contents/1385578",
+     "sha256": "50e626109c05f30276548915d71c0f422eed03815630b79ba8f670ecbae99262"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3839-2019",
+   "short": "Ordenanza 3839/2019",
+   "title": "Ordenanza 3839/2019: Modifíquese el Artículo 11º de la Ordenanza 3744, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2759/contents/1385781",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2759/contents/1385781",
+     "sha256": "7fb1e2af1139da882747fa0d066cda4d63ad042883dffbb72709726c04224eed"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3840-2019",
+   "short": "Ordenanza 3840/2019",
+   "title": "Ordenanza 3840/2019: Autorízase a la señora Laura Ponce a disponer la construcción de un espacio conmemorativo a la memoria del señor Luis Rodríguez, a emplazarse en el espacio verde homónimo, según la Ordenanza 3767, existente en la calle B",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2759/contents/1385784",
+   "versions": [
+    {
+     "from": "2019-11-15",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2759/contents/1385784",
+     "sha256": "e37d2ae23179c8e4f6d7b0127d5f91bf029cbe79f605d51394566aaadeac5367"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3849-2020",
+   "short": "Ordenanza 3849/2020",
+   "title": "Ordenanza 3849/2020: Reconózcase en el ámbito municipal la fecha 2 de agosto como el “Día de la Defensa de la Escuela Digna y Segura”.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2866/contents/1396079",
+   "versions": [
+    {
+     "from": "2020-02-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2866/contents/1396079",
+     "sha256": "a70a4cd5137591f0b6b9c96f3648dd392fda5b6416dd23457ae67977503d96d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3850-2020",
+   "short": "Ordenanza 3850/2020",
+   "title": "Ordenanza 3850/2020: Modifíquese el Artículo 3º de la Ordenanza Nº 3771, el cual quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2866/contents/1396081",
+   "versions": [
+    {
+     "from": "2020-02-22",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2866/contents/1396081",
+     "sha256": "36cc2b2896c089f681449f2d360d2abd7ab6cdd56082ce42085479191d473036"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3857-2020",
+   "short": "Ordenanza 3857/2020",
+   "title": "Ordenanza 3857/2020: Dispóngase el funcionamiento desde la fecha de promulgación de la presente al 31 de Diciembre de 2021 de una Prueba Piloto, implementando un Banco Municipal de Leña en el Distrito de Coronel de Marina Leonardo Rosales, e",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2866/contents/1396105",
+   "versions": [
+    {
+     "from": "2020-02-22",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2866/contents/1396105",
+     "sha256": "f815b1631820d808ff21a04e8fbbfe305489030b35766da136cc8bab3781486e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3858-2020",
+   "short": "Ordenanza 3858/2020",
+   "title": "Ordenanza 3858/2020: Dispóngase para los actos oficiales de Aniversario de la ciudad de Punta Alta y la Autonomía Municipal, la incorporación y reproducción de los tangos Punta Alta y Bar Central en el trasfondo de los mencionados eventos. -",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2866/contents/1396110",
+   "versions": [
+    {
+     "from": "2020-02-22",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2866/contents/1396110",
+     "sha256": "092486ecb31eb87a592ee6cea007e3b789a03be31ecb709e623e586c9273a263"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3866-2020",
+   "short": "Ordenanza 3866/2020",
+   "title": "Ordenanza 3866/2020: Impóngase el nombre de “Scout Julio Enrique Pérez” a la calle sin nombre que une Libertad y Vélez Sarsfield y se encuentra lindera a la Plazoleta Don Luis Guillermo Rodríguez del barrio ATE V.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3265/contents/1430834",
+   "versions": [
+    {
+     "from": "2020-05-17",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3265/contents/1430834",
+     "sha256": "2ceb97b34b3b19b78afd88397256056de69dafae1f0d459887774dfad425d84b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3878-2020",
+   "short": "Ordenanza 3878/2020",
+   "title": "Ordenanza 3878/2020: La presente Ordenanza establece un mecanismo de sustitución progresiva de productos plásticos convencionales descartables, no esenciales, a los efectos de salvaguardar la calidad del medio ambiente local, contribuyendo a",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3265/contents/1430878",
+   "versions": [
+    {
+     "from": "2020-05-17",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3265/contents/1430878",
+     "sha256": "5910fc478e20f2d4defcd07b4d8175ba872dadd40135e138717d1b085bfa7ca5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3881-2020",
+   "short": "Ordenanza 3881/2020",
+   "title": "Ordenanza 3881/2020: Autorízase al señor Sergio Domínguez, DNI 23.289.713, a disponer la construcción de un espacio conmemorativo a la memoria del adolescentes Luca Domínguez, haciéndose cargo de los gastos en materiales y mano de obra. El m",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3265/contents/1430917",
+   "versions": [
+    {
+     "from": "2020-05-17",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3265/contents/1430917",
+     "sha256": "2d142ff299d658f50c049a3f94f57e536b57d3f2951df5522340ace4feb3f391"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3883-2020",
+   "short": "Ordenanza 3883/2020",
+   "title": "Ordenanza 3883/2020: Ratifícase la firma del Convenio de Cooperación y Financiación de Obra suscripto entre el Municipio de Coronel Rosales, representado por el señor Intendente, Lic. Mariano Cecilio Uset y la Subsecretaría de Planificación ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3265/contents/1430937",
+   "versions": [
+    {
+     "from": "2020-05-17",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3265/contents/1430937",
+     "sha256": "0ecc55b26ff32a626619411540b54112efc72365e4066a80cf686d9bda2af946"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3894-2020",
+   "short": "Ordenanza 3894/2020",
+   "title": "Ordenanza 3894/2020: Autorízase la firma del Convenio Marco de Procesamiento de Pagos entre la Municipalidad de Coronel de Marina Leonardo Rosales y la firma Mercado Libre S.R.L. cuyo objeto es la operatividad de una plataforma que permitirá",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471330",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471330",
+     "sha256": "f60fa01e54578a763ddba27e3fcf2e9647995ffafe402b28967ffc8e4dfc81cc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3895-2020",
+   "short": "Ordenanza 3895/2020",
+   "title": "Ordenanza 3895/2020: Conceptualizase al Turismo Rural como una estrategia de valorización de los recursos territoriales de las actividades cotidianas que se desarrollan en el ámbito del partido de Coronel Rosales, y que, al diversificarse, p",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471331",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 20,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471331",
+     "sha256": "2f12d0321b0932b989a28934ddbe6f8f039942c64bb699ffdccd804a56fb8128"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3900-2020",
+   "short": "Ordenanza 3900/2020",
+   "title": "Ordenanza 3900/2020: Declárase la preocupación por el estado de las prestaciones médicas en el Partido de Coronel de Marina Leonardo Rosales, en función de la limitación de la prestación",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471336",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471336",
+     "sha256": "0037eb4e56708d0128d6af3c95a9d9bab30ff9b7b8053c72de8fbc0337952acb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3903-2020",
+   "short": "Ordenanza 3903/2020",
+   "title": "Ordenanza 3903/2020: Acéptase la donación de UNA (1) consola de luces Behringer, UNA (1) Potencia Dimmer Analógico Eco, DOS (2) Tacho Parmil cuero de aluminio y DIEZ (10) tacho",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471339",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471339",
+     "sha256": "43385f42764e9c5915a1c6df11eaae01394cdac3b03469f07c76a39f10118a72"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3905-2020",
+   "short": "Ordenanza 3905/2020",
+   "title": "Ordenanza 3905/2020: Receptar, aceptar e incorporar al patrimonio municipal la donación ofrecida por el Señor Intendente Municipal del Partido de Coronel Rosales a la que refiere el",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471341",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471341",
+     "sha256": "4845ad276b8d77937a2e67b88482dc27a348da54680e056c4d72e1da8a9420dc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3906-2020",
+   "short": "Ordenanza 3906/2020",
+   "title": "Ordenanza 3906/2020: Créase el Ballet Municipal Folclórico de Coronel Rosales como elenco de danzas estable del Partido de Coronel de Marina Leonardo Rosales.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471346",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471346",
+     "sha256": "2ee80cb04b94196736fd0a49afc8562fde47629a78b57635a340d8a8bc82d067"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3912-2020",
+   "short": "Ordenanza 3912/2020",
+   "title": "Ordenanza 3912/2020: Los contribuyentes cuya determinación de la Cuota 02/2020 de tasa de seguridad e higiene sea inferior o igual a PESOS DIEZ MIL ($10.000) podrán solicitar el diferimiento total o parcial de su pago y desdoblar el saldo ad",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471382",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471382",
+     "sha256": "286956793a72022a69d5a266343562f6b86b1fca26bbfcc24af6015bfff5daed"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3915-2020",
+   "short": "Ordenanza 3915/2020",
+   "title": "Ordenanza 3915/2020: Dispóngase la implementación de una campaña de concientización y difusión de la problemática que ocasiona el cigarrillo y, específicamente, en la salud humana y ambiental, a través de la contaminación provocada por las c",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471393",
+   "versions": [
+    {
+     "from": "2020-08-21",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/3599/contents/1471393",
+     "sha256": "13bdc3049ae52c662047eaf5ce994cac68df4715c2009b0d987c0522d727d7ed"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3920-2020",
+   "short": "Ordenanza 3920/2020",
+   "title": "Ordenanza 3920/2020: Ratificase la firma del Convenio suscripto entre el Municipio de Coronel Rosales, representado por el Sr. Intendente Lic. Mariano Cecilio Uset, y el Rotary Club Punta Alta, representado por el Presidente del Comité de la",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484288",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484288",
+     "sha256": "c211dd8ce1c70d23afff90f5a5140e5ee8cfe6634ee8daad4bd28146f328eb5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3921-2020",
+   "short": "Ordenanza 3921/2020",
+   "title": "Ordenanza 3921/2020: Acéptese formalmente, en los términos de los Artículos 57º y ccs. de la Ley Orgánica de las Municipalidades, la donación efectuada con motivo de la emergencia sanitaria imperante y para su afectación a todo gasto relacio",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484289",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484289",
+     "sha256": "ec11f2644488fa42a0608a9c93d822ca3faabb10246ec413e88d74861ed66f62"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3923-2020",
+   "short": "Ordenanza 3923/2020",
+   "title": "Ordenanza 3923/2020: Adhiérase el Partido de Coronel Rosales a las disposiciones de la Ley Provincial Nº 15.134 “Ley Micaela de capacitación obligatoria en género para todas las personas que integran los tres poderes del Estado”.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484291",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484291",
+     "sha256": "01882eb75b1725e920f5330c81a1d87a9488c73198d58c358eb36d5b4021a6c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3924-2020",
+   "short": "Ordenanza 3924/2020",
+   "title": "Ordenanza 3924/2020: Incorporase el Artículo 4º Bis en la Ordenanza Nº 3893, que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484292",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484292",
+     "sha256": "9d7c702cf22c4345662c1d17465fd9818ba2a4a0451227c870cca29795b351b8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3927-2020",
+   "short": "Ordenanza 3927/2020",
+   "title": "Ordenanza 3927/2020: Acéptese formalmente, en los términos de los Artículos 57º y ccs. de la Ley Orgánica de las Municipalidades, la donación de trece (13) televisores LED 32\" detallados en el listado obrante a fs. 07/10 efectuada por el Rot",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484307",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484307",
+     "sha256": "6531ff0ba7f16f52807af3025f1171e68f30ba8a07ae47a7cf1bcd63f4a7b9e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3933-2020",
+   "short": "Ordenanza 3933/2020",
+   "title": "Ordenanza 3933/2020: Acéptese formalmente, en los términos de los Artículos 57º y ccs. de la Ley Orgánica de las Municipalidades, la donación de un (1) RADIADOR CALOVENTOR MARCA DEGADER (usado) detallados en el listado obrante a fs. 07 efect",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484324",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484324",
+     "sha256": "1fdee159355b7279d725cc3b01dfa0612384785157777448e4a43b1d4e6395f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3934-2020",
+   "short": "Ordenanza 3934/2020",
+   "title": "Ordenanza 3934/2020: OBJETO. La presente Ordenanza tiene por objeto una mejor implementación de la regulación, control y gestión de aceites vegetales (AVU´s) y grasas de fritura usados (GFU´s) definidos en el Anexo I; desde la generación, ma",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484333",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 29,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4063/contents/1484333",
+     "sha256": "53b8b6863a30c64987a262a75dd495a6bea376d1b6b91e2dfb0b1ba0f044df29"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3940-2020",
+   "short": "Ordenanza 3940/2020",
+   "title": "Ordenanza 3940/2020: Establézcase las pautas para la defensa y promoción del empleo local, las cuales determinaran los mecanismos para la contratación de personal eventual de origen local que requieran las empresas adjudicatarias de las obra",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4314/contents/1494359",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4314/contents/1494359",
+     "sha256": "996cb4d95a92c1cbffb09b815cc841a002bb550dc0a0847bbb595ea296da03e0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3945-2020",
+   "short": "Ordenanza 3945/2020",
+   "title": "Ordenanza 3945/2020: Modifícase el Artículo 2º de la Ordenanza 3065, el cual quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4314/contents/1494371",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4314/contents/1494371",
+     "sha256": "267fd381ddd56353d4b89731c8b608ce144659e39362025a794cfc6a9a153d51"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3948-2020",
+   "short": "Ordenanza 3948/2020",
+   "title": "Ordenanza 3948/2020: Declarar la “Emergencia Pública en materia social por Violencia por Razones de Género” en el Partido de Coronel Rosales y por el término de dos años a partir de su promulgación.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4314/contents/1494385",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4314/contents/1494385",
+     "sha256": "4c3f990b02c310bb38e590efa3aa830d711ebcc7564d9de09faf3bb4f8eade08"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3949-2020",
+   "short": "Ordenanza 3949/2020",
+   "title": "Ordenanza 3949/2020: Designase con el nombre de Capitán de Corbeta Eliana María Krawczyk, a la Plazoleta sin nombre ubicada en calle Colón de la Ciudad de Punta Alta, frente al Cementerio Municipal.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4314/contents/1494393",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4314/contents/1494393",
+     "sha256": "276f08c0509d67ae1bcfbe08a3d727c6918feede7a7c5ea42f262c113088f116"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3952-2020",
+   "short": "Ordenanza 3952/2020",
+   "title": "Ordenanza 3952/2020: Crease la Campaña Permanente “PRODUCTO ROSALEÑO – FUENTE DE TRABAJO LOCAL” con el objetivo de fomentar la oferta y demanda de productos manufacturados dentro del Partido de Coronel Rosales.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4314/contents/1494410",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4314/contents/1494410",
+     "sha256": "3c02ee0768055796c504d120aedb916248647093a517612249dbd4c041688c10"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3954-2020",
+   "short": "Ordenanza 3954/2020",
+   "title": "Ordenanza 3954/2020: Acéptese formalmente, en los términos de los artículos 57º y ccs. De la Ley Orgánica de las Municipalidades, la donación de un (1) calefactor tiro balanceado marca CTZ COMPACTO de 7400 CAL., una (1) pantalla manual marca",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4314/contents/1494430",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4314/contents/1494430",
+     "sha256": "67a43e396ec865b51ac2bf9010645354684a6abb4b73daa5c9e2cdf4c9a5e960"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3958-2021",
+   "short": "Ordenanza 3958/2021",
+   "title": "Ordenanza 3958/2021: Condonase la deuda Municipal que registra la partida Nº 17274-1 desde la cuota 4º de 1990 hasta la cuota 5º de 2009, la que registra la partida Nº 11195-7 desde la cuota 2º de 1998 hasta la cuota 5º de 2011, la que regis",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4516/contents/1509590",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4516/contents/1509590",
+     "sha256": "3f8ffeeb5e3148d56ebea9dd0a331340b70026aae611531bbe341f248e696b8a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3961-2021",
+   "short": "Ordenanza 3961/2021",
+   "title": "Ordenanza 3961/2021: Modifícase el Artículo 19º de la Ordenanza Nº 3405, el cual quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4516/contents/1509593",
+   "versions": [
+    {
+     "from": "2021-01-13",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4516/contents/1509593",
+     "sha256": "1f81634709fb1df374922a348b2d3a0ca850c70ac1b94650ac7925a3178ea276"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3965-2021",
+   "short": "Ordenanza 3965/2021",
+   "title": "Ordenanza 3965/2021: Acéptese formalmente, en los términos de los Artículos 57º y ccs. de la Ley Orgánica de las Municipalidades, la donación de UNA (1) PAVA ELECTRICA",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1537802",
+   "versions": [
+    {
+     "from": "2021-02-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1537802",
+     "sha256": "f89522ae1c1097a268fe6af67615f4a8e2eb3d09819a0de337d58245a4b58756"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3971-2021",
+   "short": "Ordenanza 3971/2021",
+   "title": "Ordenanza 3971/2021: Autorízase al Rotary Club Bicentenario Puerto Rosales, por su cuenta y cargo, a emplazar un monumento de la rueda rotaria en la plaza comprendida en la intersección de Diagonal Sarmiento y calle Tucumán de la ciudad de P",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1537867",
+   "versions": [
+    {
+     "from": "2021-02-13",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1537867",
+     "sha256": "e2bc9197d65a966319dacd6a126c4c17663d0c22704af2c58c769101f598e1f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3974-2021",
+   "short": "Ordenanza 3974/2021",
+   "title": "Ordenanza 3974/2021: Modifíquese la Ordenanza 3351 incorporando el siguiente Capítulo a su redacción:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1537901",
+   "versions": [
+    {
+     "from": "2021-02-13",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1537901",
+     "sha256": "d4a343b43c6a83391d24af35fbd417d7703ae4e93edc13ecee85b9ecf3e44ccf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3980-2021",
+   "short": "Ordenanza 3980/2021",
+   "title": "Ordenanza 3980/2021: Autorízase al Departamento Ejecutivo a adjudicar la Licitación Pública N° 03/20 denominada \"Adjudicación del Derecho de Organización y Explotación del Evento Cultural Anual Corsos Punta Alta\", a la única oferta válida pr",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1538321",
+   "versions": [
+    {
+     "from": "2021-02-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1538321",
+     "sha256": "b0664e4b72b97b29c198a135ed32f3419ba8c8665595484c01205950afeec925"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3984-2021",
+   "short": "Ordenanza 3984/2021",
+   "title": "Ordenanza 3984/2021: Dispóngase que no podrán efectuarse designaciones de personas, bajo la modalidad de personal de planta permanente o temporaria, en todo Sector Publico Municipal y del Honorable Concejo Deliberante, que tengan algún víncu",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1538325",
+   "versions": [
+    {
+     "from": "2021-02-13",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1538325",
+     "sha256": "4b55bd55e71e9b628fd0f8ac782ba54cd962ad900f7b4d5919c9e96f906bb8fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3986-2021",
+   "short": "Ordenanza 3986/2021",
+   "title": "Ordenanza 3986/2021: Autorizase al Departamento Ejecutivo a intervenir en los términos del Artículo 27º inc. 2 de la Ley Orgánica de las Municipalidades, Decreto 6769/58, el espacio público Parque Sarmiento y llevar adelante las tareas neces",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1538327",
+   "versions": [
+    {
+     "from": "2021-02-13",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1538327",
+     "sha256": "68f9e5c7f79a661ffdf90fdb0fc79e653f97f770008ab66358003de5fe1e3f31"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3988-2021",
+   "short": "Ordenanza 3988/2021",
+   "title": "Ordenanza 3988/2021: Autorizase el siguiente cuadro tarifario, a partir del 23 de diciembre de 2020, para el servicio de transporte de pasajeros entre la localidad de Punta Alta, Bajo Hondo, Pehuén Co, del Distrito de Coronel Rosales de la s",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1538329",
+   "versions": [
+    {
+     "from": "2021-02-13",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1538329",
+     "sha256": "8603d731b814652d83479406fc3ba188a024366c02f0b0d0af80e703c49fa2ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3990-2021",
+   "short": "Ordenanza 3990/2021",
+   "title": "Ordenanza 3990/2021: 1: Las obligaciones Fiscales consistentes en tasas, derechos y otros tributos que establezca la Municipalidad de Coronel Rosales, se regirán por las disposiciones de esta Ordenanza o por las correspondientes Ordenanzas E",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1538342",
+   "versions": [
+    {
+     "from": "2021-02-13",
+     "units": 396,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1538342",
+     "sha256": "1509c1bfedee8f000fd4f9655ed9cab494fc3a3ccc87cf2739ed2ccd075d2b59"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3993-2021",
+   "short": "Ordenanza 3993/2021",
+   "title": "Ordenanza 3993/2021: Facúltese al Departamento Ejecutivo a modificar (incrementar) el Cálculo de Recursos y Presupuesto de Gastos 2021 en la suma de PESOS TRES MILLONES TRESCIENTOS DIESCISEIS MIL QUINIENTOS ($3.316.500). –",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1538357",
+   "versions": [
+    {
+     "from": "2021-02-13",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/4895/contents/1538357",
+     "sha256": "ad382a5feb7118521c79eb2597826948dba373b92a370e8c3b2f828c7d992ee9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3999-2021",
+   "short": "Ordenanza 3999/2021",
+   "title": "Ordenanza 3999/2021: Prohíbase el estacionamiento vehicular sobre el margen de los números impares de la calle Belgrano entre Dorrego y Estomba, las 24 horas del día.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5334/contents/1571169",
+   "versions": [
+    {
+     "from": "2021-05-23",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5334/contents/1571169",
+     "sha256": "151bd9470e2cf8a4801a523999cea3173ac15ffeec175929c8e390be6552c489"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4001-2021",
+   "short": "Ordenanza 4001/2021",
+   "title": "Ordenanza 4001/2021: Autorízase al Departamento Ejecutivo a Registrar la deuda contraída con la Agente Municipal Sra. Flavia Vanesa Arias, Legajo 3600, por la suma de PESOS DIECINUEVE MIL SETENTA Y UNO ($19.071,00.-) en concepto de monto tot",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5334/contents/1571212",
+   "versions": [
+    {
+     "from": "2021-05-23",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5334/contents/1571212",
+     "sha256": "887a07e251ca6058822971da21b298ab41501f273be4f6fbb6a3f598df120849"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4006-2021",
+   "short": "Ordenanza 4006/2021",
+   "title": "Ordenanza 4006/2021: Autorízase la firma del Convenio Marco de Colaboración, del Convenio Específico de Cooperación Tecnológica y el Convenio Específico en Materia de Información Estadística, todos ellos entre el Ministerio Público de la Pro",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5334/contents/1571234",
+   "versions": [
+    {
+     "from": "2021-05-23",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5334/contents/1571234",
+     "sha256": "c6c4b1ba5c979c8cf6e508b88d1fd232844f7a4a07e50fcc0e1efa9546d06031"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4014-2021",
+   "short": "Ordenanza 4014/2021",
+   "title": "Ordenanza 4014/2021: Modifíquese la Ordenanza Nº 3059, Código de Zonificación del Partido de Coronel de Marina Leonardo Rosales, en su Anexo I. Capítulo XIII. Detalle de Zonas por Nomenclatura Catastral, según la siguiente incorporación de l",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1618975",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1618975",
+     "sha256": "d348389abe50d4fbd4e5031fdade10d8d14df587ecf3cb1e904ae037aeea6ea6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4015-2021",
+   "short": "Ordenanza 4015/2021",
+   "title": "Ordenanza 4015/2021: Modifíquese el Artículo 1º de la Ordenanza Nº 3885, que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1618986",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1618986",
+     "sha256": "f265972fa4c7467106e26e7062e986fd0c7c15252792159d146b1a3fcd1bd11d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4018-2021",
+   "short": "Ordenanza 4018/2021",
+   "title": "Ordenanza 4018/2021: Autorízase al Departamento Ejecutivo a adjudicar la Licitación Pública Nº 6/2021 denominada “Venta de Maquinaria Agraria”, a la única oferta válida presentada correspondiente al señor Pablo Alberto ROSSI, DNI Nº 23.424.4",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619038",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619038",
+     "sha256": "b1256a55d88b84f5f4a05aa975dcf9f954a2cd3cc0f63c4f20756c6f8a71c8ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4020-2021",
+   "short": "Ordenanza 4020/2021",
+   "title": "Ordenanza 4020/2021: Declárese actividades promotoras esenciales de la salud, complementarias a otras, a la práctica de deportes y a la actividad física realizada en gimnasios, natatorios, centros de entrenamiento y educación física y clubes",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619050",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619050",
+     "sha256": "c05aa0b017e1e78c547ddb02053264905b33e5b1db03957bd8f20310eca15146"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4021-2021",
+   "short": "Ordenanza 4021/2021",
+   "title": "Ordenanza 4021/2021: Institúyase un marco normativo general para la constitución de consorcios vecinales, a través de los cuales los ciudadanos del distrito de Coronel de Marina Leonardo Rosales podrán proponer la realización de obras de int",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619119",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 12,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619119",
+     "sha256": "825ef8daad11c0ad05a655e4154d6aaeb9ee641e910752707b39d4d766eb3aa2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4023-2021",
+   "short": "Ordenanza 4023/2021",
+   "title": "Ordenanza 4023/2021: Modifíquese el inciso 1.5.1.0. del Artículo 2º de la Ordenanza Nº 2.660 que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619367",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619367",
+     "sha256": "1455deacd22e96461d117f1b95bd458382e146b9a9246f82827d5dd8eb00cee3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4025-2021",
+   "short": "Ordenanza 4025/2021",
+   "title": "Ordenanza 4025/2021: Denomínese “Héroes de Malvinas” a la calle sin nombre, interna del barrio ATE VI, con inicio en Vélez Sarsfield, finalizada en Libertad, entre Dufourq y 12 de Octubre, de la ciudad Punta Alta en el marco del 200 aniversa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619379",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619379",
+     "sha256": "f607a9c6211a7884ca3c95b4c47429952788400edb245da144001dc0429569e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4027-2021",
+   "short": "Ordenanza 4027/2021",
+   "title": "Ordenanza 4027/2021: Ratifícase el Convenio específico suscripto entre el Ente Nacional de Obras Hídricas de Saneamiento, representado por el señor Néstor ALVAREZ y la Municipalidad de Coronel Rosales, representada por su Intendente, Lic. Ma",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619396",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619396",
+     "sha256": "04988c03f87c9aa74ef98577074c4c7af667b2f13f2fefcd7428ff97fe554faf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4030-2021",
+   "short": "Ordenanza 4030/2021",
+   "title": "Ordenanza 4030/2021: Declárase de utilidad pública y pago obligatorio para los propietarios o poseedores a título de dueño de los inmuebles afectados por la ejecución de la Obra Pública denominada “Pavimento y Cordón Cuneta en Acceso a Villa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619416",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619416",
+     "sha256": "a62d4278024fa5825685f90a766efdd4ec7b4233e3e379a074a63145bc71d0e1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4032-2021",
+   "short": "Ordenanza 4032/2021",
+   "title": "Ordenanza 4032/2021: Adhiérase el Municipio de Coronel de Marina Leonardo Rosales al “Programa Gobernanza Ambiental”, desarrollado por el Ministerio de Ambiente y Desarrollo Sostenible de la Nación, que tiene por objetivos:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619433",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619433",
+     "sha256": "9082b1b0d97aa40b92f0a440fd76135a6507467480bd6adf72f952c067b22ede"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4036-2021",
+   "short": "Ordenanza 4036/2021",
+   "title": "Ordenanza 4036/2021: Ratifícase la firma del Convenio Marco de Cooperación en materia de Asistencia Técnica, Provisión de Tecnología y Servicios para la Seguridad Vial en el Partido de Coronel Rosales y la respectiva adenda entre la Cámara d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619460",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5362/contents/1619460",
+     "sha256": "1fc15bddd674a688390b8965146ceedaac873e4fb6b4295e040da40e903ac52f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4041-2022",
+   "short": "Ordenanza 4041/2022",
+   "title": "Ordenanza 4041/2022: Autorízase al Departamento Ejecutivo a adjudicar la Licitación Pública Nº 10/2021, instrumentada por la “Adquisición de la Provisión y Abastecimiento de Gases Medicinales para el Hospital Eva Perón” a la única oferta vál",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1704371",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1704371",
+     "sha256": "729b3b9d32d4054aa8576550780e181f8766277063505e0d629edcd75963ecd6"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4045-2022",
+   "short": "Ordenanza 4045/2022",
+   "title": "Ordenanza 4045/2022: Facúltese al Poder Ejecutivo a determinar un espacio dentro de la Plaza General Belgrano, destinado a homenajear a todas aquellas víctimas fatales de COVID 19 del Partido de Coronel Rosales.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1704398",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1704398",
+     "sha256": "7c5b2db02661b9fa2cb2bc0ca7e9e58d2a19e0d42853bcfb357d8a0a196e4d80"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4049-2022",
+   "short": "Ordenanza 4049/2022",
+   "title": "Ordenanza 4049/2022: Oficialícese como bandera de la localidad de Villa General Arias del Distrito de Coronel de Marina Leonardo Rosales de la Provincia de Buenos Aires, la enseña usada tradicionalmente en el lugar como símbolo representativ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1704509",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1704509",
+     "sha256": "aaaf2829d436740b4985ade6d5778ef6ad5d8765b53e04f86bfd83e7c65d8ebf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4062-2022",
+   "short": "Ordenanza 4062/2022",
+   "title": "Ordenanza 4062/2022: Acéptese formalmente, en los términos de los Artículos 57º y ccs. de la Ley Orgánica de las Municipalidades, la donación de una (1) cama ortopédica, efectuada por parte del Rotary Club Bicentenario Puerto Rosales, para s",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705902",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705902",
+     "sha256": "a293404e1976a7055a50dc24c2a6542cb7b8837d6686a8ff025499afaccc5a0b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4064-2022",
+   "short": "Ordenanza 4064/2022",
+   "title": "Ordenanza 4064/2022: Modifíquese el inciso 1.5.1.0. del Artículo 2º de la Ordenanza Nº 2660 que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705904",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705904",
+     "sha256": "3dbb9925de93b8818b9d32bd39b4349724882ba5a8171742714949990ca1d845"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4067-2022",
+   "short": "Ordenanza 4067/2022",
+   "title": "Ordenanza 4067/2022: Establézcase estacionamientos exclusivos para motos en los siguientes lugares: Rivadavia al 100 sobre mano derecha; Rivadavia al 200 sobre mano derecha, Rivadavia al 400 sobre mano derecha; Mitre al 100 sobre mano izquie",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705907",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705907",
+     "sha256": "f1e63ea34894f2f7414bd12d8a1bbde399c831245bb5a68e277145871566d101"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4071-2022",
+   "short": "Ordenanza 4071/2022",
+   "title": "Ordenanza 4071/2022: Modifíquese el Artículo 1º de la Ordenanza 3947 quedando redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705911",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705911",
+     "sha256": "d5358ee3ea9494189bdf5340f4d8a9c7fb0a0c542d4add32b4ad2bddb2f4766f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4075-2022",
+   "short": "Ordenanza 4075/2022",
+   "title": "Ordenanza 4075/2022: Adhiérase el Municipio de Coronel de Marina Leonardo Rosales al Decreto DECTO-2019-1790-GDEBA-GPBA que aprueba el Protocolo Provincial de Prevención, Detección y Abordaje del Abuso Sexual hacia niños, niñas o adolescente",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705918",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705918",
+     "sha256": "ec409f2ab7877cb5adc7ccf4f13b1c94ecb5075684ba2028e4827872f4aae89f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4082-2022",
+   "short": "Ordenanza 4082/2022",
+   "title": "Ordenanza 4082/2022: Autorizar la reprogramación de las deudas municipales generadas en el marco del Fondo Especial de Emergencia Sanitaria para la Contención Fiscal Municipal”, creado por Decreto N° 264/20, (Ratificado por la Ley Nº 15.174)",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705937",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705937",
+     "sha256": "1a64ed7fecacc27147165d798b90c8b583b1325b44802d62369d36794dedb8fc"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4089-2022",
+   "short": "Ordenanza 4089/2022",
+   "title": "Ordenanza 4089/2022: Modifíquese el Artículo N° 23 de la ordenanza N° 3591, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705963",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1705963",
+     "sha256": "094e2a7bbd832f7e2336de5d9e2adc7dd1c944921ff351f3d5d5945ad5809e14"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4102-2022",
+   "short": "Ordenanza 4102/2022",
+   "title": "Ordenanza 4102/2022: Autorizase a partir del día 1º del mes de Enero de 2022 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros del Distrito de Coronel Rosales prestado por las empresas Compañía Belgrano SA y Co",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706291",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706291",
+     "sha256": "17aae85bd37f11aeb4ba9d793efc2b574aadacee9bf4a2d287c8d9527b2b909d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4105-2022",
+   "short": "Ordenanza 4105/2022",
+   "title": "Ordenanza 4105/2022: Dispóngase que, durante el año 2022, toda la documentación oficial de la administración pública local deberá llevar la leyenda “2022 – 40º Aniversario de la Gesta del Atlántico Sur, Año del Veterano y de los Caídos en la",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706442",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706442",
+     "sha256": "d534c755ce5d662921a474ac8610b6b09b10962753d715527461b2c4f7b64808"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4110-2022",
+   "short": "Ordenanza 4110/2022",
+   "title": "Ordenanza 4110/2022: Incorpórese y modifíquese a los Anexos I y II de la Ordenanza 2.835 las siguientes arterias con su respectivo sentido de circulación:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706469",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706469",
+     "sha256": "1dc5b31346b1195e0edd8807b45aa65a77ef0085f01e8b69bec60b1d9caeb18f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4112-2022",
+   "short": "Ordenanza 4112/2022",
+   "title": "Ordenanza 4112/2022: Publíquese en las páginas App Rosales Interactiva de estacionamiento medido y pago, Rosales Municipio y HCD Rosales, una ventana emergente que contenga la información del Anexo I.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706482",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706482",
+     "sha256": "e779b5a91c8bf08d4252051374a440559900503784db42bf0f8769550e5a4a9e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4115-2022",
+   "short": "Ordenanza 4115/2022",
+   "title": "Ordenanza 4115/2022: Modifíquese el Artículo 3º de la Ordenanza Nº 3592, el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706506",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706506",
+     "sha256": "dd23314b183a28e0911412c7eaf6214283b76aa2d7830c9ad809c105f0106d77"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4118-2022",
+   "short": "Ordenanza 4118/2022",
+   "title": "Ordenanza 4118/2022: Dónase diez (10) sillas NOVE TG sin apoya brazos (Nº de identificación: 18053; 18054; 18055; 18057; 18058; 18060; 18062; 18063; 18064); una (1) computadora de oficina INTEL CORE I34170 HASWELL-370GHZ-3MB-GPUS1155 y monit",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706520",
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706520",
+     "sha256": "c3961b980bab61ca9205f4600ee107a7bb33b07e4444ad003ec468ba0deb3151"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4119-2022",
+   "short": "Ordenanza 4119/2022",
+   "title": "Ordenanza 4119/2022: Deróguese la Ordenanza 3660.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7022/contents/1739523",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7022/contents/1739523",
+     "sha256": "b7abe1803b35b121b6f0e4369a4fe2694ada67202eeb071f69f2aedad56d0b18"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4122-2022",
+   "short": "Ordenanza 4122/2022",
+   "title": "Ordenanza 4122/2022: Condónase la deuda municipal que al 31 de marzo de 2022 registra la Partida Nº 113-7649/4 en concepto de Contribución por Mejoras correspondientes a la Licitación Pública Nº 19/2017 llevada adelante para la ejecución de ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7022/contents/1739551",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7022/contents/1739551",
+     "sha256": "e036949330d7a209e2af0fb4032d0ef7213fdae29be8a175c54a2d965b6a0127"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4124-2022",
+   "short": "Ordenanza 4124/2022",
+   "title": "Ordenanza 4124/2022: Oficialícese como Canción de la localidad de Villa del Mar del Distrito de Coronel de Marina Leonardo Rosales de la Provincia de Buenos Aires, la composición musical de los señores Eugenio Damián Ojeda y Francisco Martin",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7022/contents/1739564",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7022/contents/1739564",
+     "sha256": "634e5c57ddb8077b007d1571fc7cd054002b0f1011ba64e09ad283fe64190dcf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4133-2023",
+   "short": "Ordenanza 4133/2023",
+   "title": "Ordenanza 4133/2023: Convalidar el Convenio suscripto el día 2 del mes de mayo del año 2022, con el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires para la financiación de la obra “Cordón Cuneta y Pavimento",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845351",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845351",
+     "sha256": "1a58867a4abb4424d5f207fb326bbed36d481095307c7476806c0a9936a95dd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4135-2023",
+   "short": "Ordenanza 4135/2023",
+   "title": "Ordenanza 4135/2023: Dónase 1 (UNA) computadora de oficina INTEL CORE (Nº de identificación 11637); 1 (UN) monitor de video LG 17” serie (Nº de identificación 7738) y 1 (UN) estabilizador Excel 500 (Nº de identificación 12379) al Club Social",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845371",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845371",
+     "sha256": "f8dbe1eb9e8911ebf832298e059279bf9e782ac5ff24670be899787050e67cab"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4137-2023",
+   "short": "Ordenanza 4137/2023",
+   "title": "Ordenanza 4137/2023: Créase la “Mesa Municipal Pro Designación de Nombres de arterias o espacios públicos de Coronel Rosales\", cuyos objetivos y funcionamiento se regirán por las disposiciones de la presente Ordenanza.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845386",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845386",
+     "sha256": "d8f76e3f4f5c3d119779eee9a7fbaf1dc9dcc8aa076baa4178476feef606f261"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4138-2023",
+   "short": "Ordenanza 4138/2023",
+   "title": "Ordenanza 4138/2023: Incorpórese el Inciso 2.8.1.4 al Artículo 3º de la Ordenanza Nº 2.660, referida al Código de Edificación de Coronel Rosales, el cual quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845399",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845399",
+     "sha256": "9cccfb369cb61570bb7d9874d29a3420286f08f74022ea3ef49ea96163b570a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4143-2023",
+   "short": "Ordenanza 4143/2023",
+   "title": "Ordenanza 4143/2023: Modifíquese la Ordenanza Nº 3885, la cual quedará redactada de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845471",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 12,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845471",
+     "sha256": "10a4fab7018a7090176455536258748c50425ae02ea87a4d3489bd4ea8a01525"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4150-2023",
+   "short": "Ordenanza 4150/2023",
+   "title": "Ordenanza 4150/2023: Créase el “Sistema Municipal de Concientización, Prevención e Información sobre Acoso Escolar, Grooming y CiberBullying en Coronel Rosales.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845490",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845490",
+     "sha256": "a252805e2516fc9dbdb2b9536cf4c56d2e201c1844ebe6f3b23161506e379794"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4151-2023",
+   "short": "Ordenanza 4151/2023",
+   "title": "Ordenanza 4151/2023: La Municipalidad de Coronel Rosales deberá ocupar en una proporción no inferior al uno por ciento (1%) de la totalidad de su planta de trabajadoras/es a personas travestis, transexuales y transgénero, hayan o no adherido",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845492",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845492",
+     "sha256": "06741a12f8a228d88af27fa87ad243248c069253a2a98825da5eb0b92216c910"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4152-2023",
+   "short": "Ordenanza 4152/2023",
+   "title": "Ordenanza 4152/2023: Crease en el Distrito de Coronel de Marina Leonardo Rosales los denominados Corredores Escolares Seguros (C.E.S.).-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845493",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845493",
+     "sha256": "2b147a67c5f7c441f29d58daedf31de30e6309d67f827e8488d09c1fc30f531e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4167-2023",
+   "short": "Ordenanza 4167/2023",
+   "title": "Ordenanza 4167/2023: Crease la “Feria Permanente Hecho en Rosales” con el objetivo de fomentar la oferta y demanda de productos manufacturados y/o artesanales dentro del Partido de Coronel Rosales.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845688",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845688",
+     "sha256": "5e60ebdabc091bc87102a6f1875db8c0ec6e22481e601a98444fa014b67c8b3b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4170-2023",
+   "short": "Ordenanza 4170/2023",
+   "title": "Ordenanza 4170/2023: Autorícese la siguiente escala tarifaria para el servicio de Taxis en el Distrito:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845712",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845712",
+     "sha256": "ef7158e2cb7aa489ca8cd78b05ad24a9ce5b26c9f3e4a718d93ff7c9b6706004"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4172-2023",
+   "short": "Ordenanza 4172/2023",
+   "title": "Ordenanza 4172/2023: Autorizase a “Amigos del Monumento a las Provincias Argentinas” a colocar 1 (un) hito de distancia en el siguiente punto geográfico, a saber:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845732",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845732",
+     "sha256": "408b035fe91b2020c95275771fe681880e943de83352d95428bd073e88ffe337"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4173-2023",
+   "short": "Ordenanza 4173/2023",
+   "title": "Ordenanza 4173/2023: Crease el espacio de arte popular y urbano en el paredón trasero del Corralón de la calle Colón de dependencia municipal, lindante al Parque “Sarmiento” de la ciudad de Punta Alta. -",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845737",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845737",
+     "sha256": "5bd1a9b106e9cd07c76b205c061daf0cf275b0d56aa6e02c4a4dd4e03485476a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4174-2023",
+   "short": "Ordenanza 4174/2023",
+   "title": "Ordenanza 4174/2023: Modifíquese la Ordenanza Nº 3059, Código de Zonificación del Partido de Coronel de Marina Leonardo Rosales, en su Detalle de Zonas por Nomenclatura Catastral, respecto de la zona RESIDENCIAL URBANA 2 (R2) a efectos de in",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845753",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845753",
+     "sha256": "6fb65adab8abbc1e1bf09facda0d3b8bd48bc41b9eeafa19916b94d2db23c790"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4175-2023",
+   "short": "Ordenanza 4175/2023",
+   "title": "Ordenanza 4175/2023: Modifíquese la Ordenanza Nº 3059, Código de Zonificación del Partido de Coronel de Marina Leonardo Rosales, en su Detalle de Zonas por Nomenclatura Catastral, respecto de la zona RESIDENCIAL URBANA 2 (R2) a efectos de in",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845757",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845757",
+     "sha256": "4ea539f28f886079a4e8aa93272744912f05e3899de8a0c99783ce3dfe3d8661"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4177-2023",
+   "short": "Ordenanza 4177/2023",
+   "title": "Ordenanza 4177/2023: Modifíquese el Artículo 3º de la Ordenanza Nº 2009 el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845766",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845766",
+     "sha256": "cc389680fd448e96738b8f9bb24aa81b548dc1ef8a0e902f587e7f50e405eaf3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4185-2023",
+   "short": "Ordenanza 4185/2023",
+   "title": "Ordenanza 4185/2023: Impóngase el nombre de “Antonio Volpe” a la calle sin nombre, ubicada entre Avenida Colón al 4.800 y calle “Caminito” del “Barrio El Porvenir” de la ciudad de Punta Alta.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845805",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845805",
+     "sha256": "3d8b415ea4db868cbbda1eec1902848c380f466e17114406877f50f07f33a151"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4192-2023",
+   "short": "Ordenanza 4192/2023",
+   "title": "Ordenanza 4192/2023: Modifíquese el Articulo N° 21 de la Ordenanza 3.592 que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845837",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845837",
+     "sha256": "4b713225f707f58d82c57f781128d58a27deec8739c30198ca613102578f383a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4193-2023",
+   "short": "Ordenanza 4193/2023",
+   "title": "Ordenanza 4193/2023: Prohíbase en todo el Distrito de Coronel de Marina Leonardo Rosales la colocación de propaganda político partidaria fuera del período establecido entre los cincuenta (50) días corridos anteriores y los treinta (30) días ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845841",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/7283/contents/1845841",
+     "sha256": "b1c6647acf3eb5dbfbee60a3b09f90975f5f91e0ab7e8307171304a63c37d79c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4210-2023",
+   "short": "Ordenanza 4210/2023",
+   "title": "Ordenanza 4210/2023: Autorízase al Departamento Ejecutivo de la Municipalidad de Coronel Rosales, a adherir a lo dispuesto por la disposición 480/2020 (DI-2020-480-APN-ANSV) de conformidad a lo establecido en su artículo 2°, por medio de la ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8651/contents/1882363",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 15,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8651/contents/1882363",
+     "sha256": "a5580a59bd4de9f1e778fea18da019d5a71f7448527598e7bcd53ce1c44a4114"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4214-2023",
+   "short": "Ordenanza 4214/2023",
+   "title": "Ordenanza 4214/2023: Autorizase el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros del Distrito de Coronel Rosales prestado por las empresas Compañía Belgrano S.A y Compañía Puntaltense S.A.:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8651/contents/1882539",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8651/contents/1882539",
+     "sha256": "a59af443ae4f2ae2ec050de4093347991b4c1cf2f5613736d9de02dcc6fc1a72"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4218-2023",
+   "short": "Ordenanza 4218/2023",
+   "title": "Ordenanza 4218/2023: Modifíquese el inciso 17 del Artículo 1º de la Ordenanza Municipal Nº 4016, el cual quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8651/contents/1882613",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8651/contents/1882613",
+     "sha256": "b495422f64a1734233f8fd5862194a434e307049beb80386c4a9ce6f859ed325"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4222-2023",
+   "short": "Ordenanza 4222/2023",
+   "title": "Ordenanza 4222/2023: Prohíbase en el Pasaje María Cristina Comuzio durante las 24 horas, el estacionamiento de vehículos en ambas manos.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8651/contents/1882628",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8651/contents/1882628",
+     "sha256": "a41f47c171a74b538a49ef69dade1e1f0444e5bb4bc9905fad880940c1e6b26b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4224-2023",
+   "short": "Ordenanza 4224/2023",
+   "title": "Ordenanza 4224/2023: Autorízase a la señora Laura Ponce a disponer la construcción de un espacio conmemorativo al señor Luis Rodríguez en la plazoleta “Don Luis Guillermo Rodríguez”, ubicada en el Barrio ATE V de la ciudad de Punta Alta, Par",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/8651/contents/1882638",
+   "versions": [
+    {
+     "from": "2023-08-18",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/8651/contents/1882638",
+     "sha256": "4e0b2b36220f70edb9463bc4c923b4cf8ae0430393c54adb5fc7129bf3bfa80e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4235-2023",
+   "short": "Ordenanza 4235/2023",
+   "title": "Ordenanza 4235/2023: Facúltase al Departamento Ejecutivo para efectuar el llamado a Licitación Pública para la concesión por el plazo de diez (10) años, con posibilidades de prórroga, del inmueble donde se encuentra emplazada la Plaza del So",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9327/contents/1937806",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9327/contents/1937806",
+     "sha256": "68e210f15c48dc9b62e98751aaa12d7e58c709b099b7e27b2baf75d291e505a1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4243-2023",
+   "short": "Ordenanza 4243/2023",
+   "title": "Ordenanza 4243/2023: Convalidar el Convenio suscripto el día 21 de Julio de 2023 por el señor Intendente Municipal en representación de la Municipalidad de Coronel de Marina Leonardo Rosales con el señor Ministro, Leonardo Javier Nardini, en",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9327/contents/1937942",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9327/contents/1937942",
+     "sha256": "78b1909f6f01d5da83ad0faff8a4be3a8fe645552a3e8edb5cddcd3b57c7787c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4258-2024",
+   "short": "Ordenanza 4258/2024",
+   "title": "Ordenanza 4258/2024: Créase en el ámbito del Municipio de Coronel Rosales, la “Mesa Local Intersectorial de Salud Mental”.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9670/contents/2023637",
+   "versions": [
+    {
+     "from": "2024-05-19",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9670/contents/2023637",
+     "sha256": "ff48be7cccef2b67826c23a262626cde8aba351c144bd6de12d5aea9ee154e50"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4259-2024",
+   "short": "Ordenanza 4259/2024",
+   "title": "Ordenanza 4259/2024: Autorízase al Departamento Ejecutivo a adjudicar la Licitación Pública Nº 07/2023, Venta de Maquinaria de la Industria Láctea, en favor de la única oferta válida presentada correspondiente al señor Jorge Atilio PEREYRA, ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9670/contents/2023648",
+   "versions": [
+    {
+     "from": "2024-05-19",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9670/contents/2023648",
+     "sha256": "2435e5f3ef04dbaa58524f33f1611490b57b1ff8fa8d532e2ce0effcc250ced2"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4267-2024",
+   "short": "Ordenanza 4267/2024",
+   "title": "Ordenanza 4267/2024: Adhiérase al Decreto Nº 786/2023 que declaró el Estado de Emergencia en todo el Distrito de Coronel Rosales por el temporal que azotó la región el día 18 de diciembre de 2023.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/9670/contents/2023684",
+   "versions": [
+    {
+     "from": "2024-05-19",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/9670/contents/2023684",
+     "sha256": "55828085ecb6195e65c77800b4220635375386099b7097c8899db4827694213d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4282-2024",
+   "short": "Ordenanza 4282/2024",
+   "title": "Ordenanza 4282/2024: Créase en el Municipio de Coronel Rosales, la Biblioteca Pública Municipal Digital (en adelante B.P.M.D.), para la difusión de manera pública, libre y gratuita, de contenidos culturales, educativos, científicos e históri",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060053",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060053",
+     "sha256": "9a39c2c29237a36ce9278864d61f3e29591a7f69f9ae959d9101a4fcddcccbf1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4287-2024",
+   "short": "Ordenanza 4287/2024",
+   "title": "Ordenanza 4287/2024: Modífíquese el Anexo I de la Ordenanza 2835 en el Sector A de acuerdo a lo siguiente:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060095",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060095",
+     "sha256": "577cb7b06adb8fb17ea7d0637524e8b24e04df4d570f32377c1438e60cd08f30"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4288-2024",
+   "short": "Ordenanza 4288/2024",
+   "title": "Ordenanza 4288/2024: Modifíquese el Artículo 1º de la Ordenanza 3653, quedando redactado de la siguiente forma:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060101",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 9,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060101",
+     "sha256": "d1311d01ae4efe252044bc25cfea3b330e7ddb806056826e844b03fd72bf91ec"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4289-2024",
+   "short": "Ordenanza 4289/2024",
+   "title": "Ordenanza 4289/2024: Modifíquese el Artículo 1º de la Ordenanza 2358 quedando redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060111",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060111",
+     "sha256": "697be0ea0a2a38354ea4ff175161a817f54d191eabc8b262636e3d7685697f22"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4292-2024",
+   "short": "Ordenanza 4292/2024",
+   "title": "Ordenanza 4292/2024: Modifíquese el Artículo 1º de la Ordenanza Nº 3857 el cual quedara redactado de la siguiente forma:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060148",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060148",
+     "sha256": "711a71ea26864e5929a5da57ad4c147af8ea2527352f330270dea44ceaf3d245"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4294-2024",
+   "short": "Ordenanza 4294/2024",
+   "title": "Ordenanza 4294/2024: Establézcase el servicio de transporte especializado para personas con discapacidad de carácter colectivo o de plazas reducidas, en el Partido de Coronel de Marina Leonardo Rosales el que deberá ajustarse a lo que determ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060170",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060170",
+     "sha256": "6b2aeb4561a3746d95c6844758379342f4c8a99c130b3c6a033054c87e1c7a0c"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4301-2024",
+   "short": "Ordenanza 4301/2024",
+   "title": "Ordenanza 4301/2024: Acéptese formalmente, en los términos de los Artículos 57º y ccs. de la Ley Orgánica de las Municipalidades, la donación efectuada por la firma Zona Franca Buenos Aires Sur S.A. (CUIT 30-71036486-5) a la Municipalidad de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060251",
+   "versions": [
+    {
+     "from": "2024-06-19",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10633/contents/2060251",
+     "sha256": "40f6b6512e4da92e6140b30f2e91b2f7f80bdeee93a12b9653c2864b07be6582"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4306-2024",
+   "short": "Ordenanza 4306/2024",
+   "title": "Ordenanza 4306/2024: Impleméntese en el Distrito de Coronel Rosales el “Programa reglamentario de circulación, seguridad y protección al ciclista” que estará a cargo de la Dirección de Tránsito y Transporte.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10802/contents/2072585",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10802/contents/2072585",
+     "sha256": "b3708cb5b07a2a02cd02bb90c44a72b5826b2b2ee2241ffbc2abddaccca0ba28"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4307-2024",
+   "short": "Ordenanza 4307/2024",
+   "title": "Ordenanza 4307/2024: Modificase el Artículo 1º de la Ordenanza 4238, el cual quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10802/contents/2072590",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10802/contents/2072590",
+     "sha256": "ebdba392fcba4adb5fb05481a448320b65abf2349b8642abef84529af5930186"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4315-2024",
+   "short": "Ordenanza 4315/2024",
+   "title": "Ordenanza 4315/2024: Prohíbase la práctica del escaneo de iris con fines comerciales en el territorio del Distrito de Coronel de Marina Leonardo Rosales hasta la presentación de dictamen de seguridad favorable de dicha actividad por parte de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/10802/contents/2072622",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/10802/contents/2072622",
+     "sha256": "a8e41c900f60c9607c772e7708c57caa98dd9202da805f04371915c8871a45ee"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4329-2024",
+   "short": "Ordenanza 4329/2024",
+   "title": "Ordenanza 4329/2024: Modifíquese el Artículo 1º de la Ordenanza Nº 4291, el cual quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11075/contents/2093815",
+   "versions": [
+    {
+     "from": "2024-08-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11075/contents/2093815",
+     "sha256": "c843a1c74e8d39eea42ad439f3835142264a85f2175cdc4c9bd31c09e86c2e4d"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4333-2024",
+   "short": "Ordenanza 4333/2024",
+   "title": "Ordenanza 4333/2024: Autorícese la firma del Convenio YPF ENRUTA/YPF Ruta, adjunto como ANEXO I, “Condiciones Generales del Programa Tarjeta YPF Enruta/YPF Ruta”, entre la Municipalidad de Coronel de Marina Leonardo Rosales y la Firma YPF S.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11157/contents/2106591",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11157/contents/2106591",
+     "sha256": "09da7416cbf7214c4d1fc24b82ae1328a466b5f0b54e66894128aeb919740316"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4334-2024",
+   "short": "Ordenanza 4334/2024",
+   "title": "Ordenanza 4334/2024: Créase en el Partido de Coronel de Marina Leonardo Rosales la “Beca Coronel Rosales” destinada a estudiantes ingresantes o regulares de Institutos de Educación Superior públicos y Universidades Públicas de Punta Alta, Ba",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11157/contents/2106595",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 17,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11157/contents/2106595",
+     "sha256": "f65dcba1053d302b7bf052c16c9db39035e020c90b179aee3fca6d0b63b9d381"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4336-2024",
+   "short": "Ordenanza 4336/2024",
+   "title": "Ordenanza 4336/2024: Impóngase el nombre de “Espacio Cultural Gustavo Bouscayrol” al circuito pavimentado en donde actualmente se realizan los Corsos y diferentes expresiones culturales sobre el andén de la ex estación ferroviaria Almirante ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11157/contents/2106601",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11157/contents/2106601",
+     "sha256": "824b9beec807b29716b6ef0235216732ae54bb9123a9a15a4ba43c0a719aa1c9"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4345-2024",
+   "short": "Ordenanza 4345/2024",
+   "title": "Ordenanza 4345/2024: Modifíquese el Artículo 8º de la Ordenanza 3351 por el siguiente:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11354/contents/2120477",
+   "versions": [
+    {
+     "from": "2024-10-26",
+     "units": 13,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11354/contents/2120477",
+     "sha256": "0c9cd778b17de9a4b276452a68f9cbc1c1d43278dcdeb5e76c1462a543bdea29"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4351-2024",
+   "short": "Ordenanza 4351/2024",
+   "title": "Ordenanza 4351/2024: Dispónese, que, a los fines de participar y colaborar con el Programa de Reciclado de Tapitas de Plástico de la Fundación Garrahan, el Municipio de Coronel Rosales dispondrá y dejará a disposición de la ciudadanía “conte",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11354/contents/2120489",
+   "versions": [
+    {
+     "from": "2024-10-26",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11354/contents/2120489",
+     "sha256": "32849ee9f2cad7f42b1bae1b5b6615a76bf44a7d0e128f8f3a60d514bcf3db14"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4378-2024",
+   "short": "Ordenanza 4378/2024",
+   "title": "Ordenanza 4378/2024: Establézcase el sentido único de circulación de la calle Belgrano desde Martín García hacia Rosario en sentido ascendente.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/11720/contents/2141606",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/11720/contents/2141606",
+     "sha256": "3fc56813de2ebd31daa91ce841d2255065ba891d5195a7f6abd06bfb65588201"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4390-2025",
+   "short": "Ordenanza 4390/2025",
+   "title": "Ordenanza 4390/2025: Autorizar al Departamento Ejecutivo a celebrar con Provincia Leasing S.A. contrato de leasing con opción a compra en forma de contratación directa de conformidad a lo establecido por el Artículo 156º inc. 2, 273 y concor",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12550/contents/2201793",
+   "versions": [
+    {
+     "from": "2025-05-02",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12550/contents/2201793",
+     "sha256": "71f519374cf3ec408a5ca594a4acb5ad178c6e4cc65bc038c26518a1e832ee4e"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4391-2025",
+   "short": "Ordenanza 4391/2025",
+   "title": "Ordenanza 4391/2025: Modifíquese el Artículo 2.4 de la Ordenanza Nº 2.660, quedando redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12550/contents/2201799",
+   "versions": [
+    {
+     "from": "2025-05-02",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12550/contents/2201799",
+     "sha256": "559dcae4d5d83f8c8629fa5bffd0c1dca30abd76e4c5d23f93f89e3b7997fe63"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4393-2025",
+   "short": "Ordenanza 4393/2025",
+   "title": "Ordenanza 4393/2025: Declárase la “EMERGENCIA AMBIENTAL” al distrito de Coronel Rosales en lo relativo a la necesidad de disponer políticas y acciones conducentes al tratamiento y disposición final de los Residuos Sólidos urbanos en virtud d",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12550/contents/2201805",
+   "versions": [
+    {
+     "from": "2025-05-02",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12550/contents/2201805",
+     "sha256": "2e1dc55bb3d717c667b17ad3e76d38dff0d25eee9d2aae63b0f7b8c7f0867f95"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4398-2025",
+   "short": "Ordenanza 4398/2025",
+   "title": "Ordenanza 4398/2025: Modifíquese el Artículo 2º de la Ordenanza 4189, el cual quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12900/contents/2228640",
+   "versions": [
+    {
+     "from": "2025-06-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12900/contents/2228640",
+     "sha256": "2c98ba7ce70f207841742c0416f68546869d73ba09a88d1f50fc1c3edebaed0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4399-2025",
+   "short": "Ordenanza 4399/2025",
+   "title": "Ordenanza 4399/2025: Acéptese formalmente, en los términos de los Artículos 57º y ccs. de la Ley Orgánica de las Municipalidades, la donación efectuada por la Universidad Nacional del Sur (CUIT 30-54666878-5) a la Municipalidad de Coronel de",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12900/contents/2228647",
+   "versions": [
+    {
+     "from": "2025-06-15",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12900/contents/2228647",
+     "sha256": "dca2462ef45aafa90dc3221d791de1796757d3fcfe445db63968a944bf5b1490"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4401-2025",
+   "short": "Ordenanza 4401/2025",
+   "title": "Ordenanza 4401/2025: Toda obra en la vía pública que afecte la transitabilidad de la misma, ejecutada en el Distrito de Coronel Rosales deberá disponer de medios de señalización reflectante y/o de balizamiento que permita su correcta visuali",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/12900/contents/2228669",
+   "versions": [
+    {
+     "from": "2025-06-15",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/12900/contents/2228669",
+     "sha256": "622c6b930fa25257a23fac40e82cd5a696224b96d0d27ccebd474883d582f383"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4402-2025",
+   "short": "Ordenanza 4402/2025",
+   "title": "Ordenanza 4402/2025: Modifíquese el Artículo 15º de la Ordenanza 4384, el cual quedará redactado de la siguiente forma:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13082/contents/2244912",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13082/contents/2244912",
+     "sha256": "84dccff1805d81556f8ec1e7caa93427d59a4daa94076e09981ac9611594e2cf"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4403-2025",
+   "short": "Ordenanza 4403/2025",
+   "title": "Ordenanza 4403/2025: Dispónese la adecuación del Municipio de Coronel Rosales a lo establecido en la Ley Provincial Nº 13.074 y sus modificatorias, implementando las medidas necesarias para garantizar su efectivo cumplimiento en el ámbito lo",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13082/contents/2244914",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13082/contents/2244914",
+     "sha256": "268591516ec71fedd2ee81dfae1c52cdeb28d77da4c3db21b440760c9ee4873a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4406-2025",
+   "short": "Ordenanza 4406/2025",
+   "title": "Ordenanza 4406/2025: Impóngase el nombre “Del Arbolito” a la calle que existe entre las Manzanas 22a y 22b de la localidad de Pehuen-Co.",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13082/contents/2244920",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13082/contents/2244920",
+     "sha256": "eb7b60a4b48d9183e6cbde98adece972947ec8653da7bb788f8e7bd4fd6ead01"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4407-2025",
+   "short": "Ordenanza 4407/2025",
+   "title": "Ordenanza 4407/2025: Impóngase el nombre de “S.S. Papa Francisco” al boulevard situado en Avenida Tucumán, entre las calles Alem y la Ruta Nacional 249, en la localidad de Punta Alta.-",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13161/contents/2258185",
+   "versions": [
+    {
+     "from": "2025-08-17",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13161/contents/2258185",
+     "sha256": "275ea7364a0d762c9d777bd4cbd7ab91e6f9902e865aba89abe513db1fd44565"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4409-2025",
+   "short": "Ordenanza 4409/2025",
+   "title": "Ordenanza 4409/2025: Declárase el Estado de Emergencia Sanitaria en el Distrito de Coronel de Marina Leonardo Rosales, en razón del colapso de la red cloacal y la necesidad de ampliación de la red de agua potable, la rotura de colectoras, la",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13161/contents/2258196",
+   "versions": [
+    {
+     "from": "2025-08-17",
+     "units": 10,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13161/contents/2258196",
+     "sha256": "3646991560a93898b99050becc643f2d3877effa356bcdec9888e8c35dd223f1"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4410-2025",
+   "short": "Ordenanza 4410/2025",
+   "title": "Ordenanza 4410/2025: Incorpórese el Artículo 94° BIS a la Ordenanza 1999, el cual quedara redactado de la siguiente forma:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13161/contents/2258197",
+   "versions": [
+    {
+     "from": "2025-08-17",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13161/contents/2258197",
+     "sha256": "706088f2993cf0693290e952fbd3037ebb1f43c17d423f701b6279517c63bc6b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4411-2025",
+   "short": "Ordenanza 4411/2025",
+   "title": "Ordenanza 4411/2025: Autorícese al Departamento Ejecutivo a eximir de manera extraordinaria y por única vez del pago de la Tasa por Inspección de Seguridad e Higiene, mes de julio de 2025 y Monotasa, meses de junio y julio de 2025, a aquello",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13161/contents/2258198",
+   "versions": [
+    {
+     "from": "2025-08-17",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13161/contents/2258198",
+     "sha256": "f79173412bfb9b0bfcb145edbbf4ad41b350383c6eab7aeeefb7ae2f0b51aa34"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4415-2025",
+   "short": "Ordenanza 4415/2025",
+   "title": "Ordenanza 4415/2025: Autorizase al Departamento Ejecutivo a adjudicar la Licitación Pública N° 02/2025, denominada Ampliación y refuncionalización del Jardín Maternal Osito Remolón” a la única oferta válida presentada correspondiente a la em",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/13386/contents/2271100",
+   "versions": [
+    {
+     "from": "2025-09-27",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/13386/contents/2271100",
+     "sha256": "54611b3f26638c9894f1c690aab059171a57d6709597c711c432dc8d81b56da5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4440-2026",
+   "short": "Ordenanza 4440/2026",
+   "title": "Ordenanza 4440/2026: Modifíquese el articulado de la Ordenanza Nº 3766, el cual quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14579/contents/2358170",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 7,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14579/contents/2358170",
+     "sha256": "f9c90732fc4794d1434fbefa082447785805addf8b0a8f3f8a3842bdf8a14ab8"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4444-2026",
+   "short": "Ordenanza 4444/2026",
+   "title": "Ordenanza 4444/2026: Convalídese en todos sus términos el Decreto del Departamento Ejecutivo Municipal Nº 631, referido al Expediente S-226/2025 mediante el cual e aprueba la suscripción del acuerdo Transaccional de Pago 2025 a celebrarse en",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14579/contents/2358191",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14579/contents/2358191",
+     "sha256": "fca18708d6265378dc100015a42ebae2b69d47105904e75dcf823b54abfcc179"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4453-2026",
+   "short": "Ordenanza 4453/2026",
+   "title": "Ordenanza 4453/2026: Incorpórese a la Ordenanza Municipal 1999 el siguiente artículo:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14672/contents/2364509",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14672/contents/2364509",
+     "sha256": "7301d0ed4300293128c7686299ef1b437eb5571f1e1447327cafa0fdc55564f3"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4459-2026",
+   "short": "Ordenanza 4459/2026",
+   "title": "Ordenanza 4459/2026: La presente Ordenanza tiene como objetivo regular y establecer el circuito de las líneas de colectivos de transporte público urbano del distrito de Coronel de Marina Leonardo Rosales, de la empresa local: Compañía Belgra",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14672/contents/2364546",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 16,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14672/contents/2364546",
+     "sha256": "716dc4eed60a5806492771e677bcb64f5f101af029dd6b4ade621000bc8d8009"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4460-2026",
+   "short": "Ordenanza 4460/2026",
+   "title": "Ordenanza 4460/2026: Acéptese formalmente, en los términos de los Artículos 57º y ccs. de la Ley Orgánica de las Municipalidades, la donación efectuada por la Institución Rotary Club Punta Alta - Rueda Femenina (CUIT 30-69593248-7), a la Mun",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/14921/contents/2390539",
+   "versions": [
+    {
+     "from": "2026-05-31",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14921/contents/2390539",
+     "sha256": "62b35edabed4d08e6b93641ad33ee7baecabfc621c77c3e80fe6209e5dfdcf2b"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4448-2026",
+   "short": "Ordenanza 4448/2026",
+   "title": "Ordenanza 4448/2026: La Municipalidad de Coronel de Marina Leonardo Rosales, se regirá durante el año 2026 por el Cálculo de Recursos y Presupuesto de Gastos, cuya cuantificación y detalle, se adjunta como Anexo I, documentación que forma pa",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15226/contents/2405874",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 31,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15226/contents/2405874",
+     "sha256": "e92558f78dd85e11a7c73fdf99117bd3860f64a6ef1bc5248e338df92871e781"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4466-2026",
+   "short": "Ordenanza 4466/2026",
+   "title": "Ordenanza 4466/2026: Establézcase la obligatoriedad de instalación de cámaras desengrasadoras, trampas de grasa o dispositivos equivalentes de retención de grasas en todos los establecimientos gastronómicos, industriales, de servicios o come",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15226/contents/2405888",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 12,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15226/contents/2405888",
+     "sha256": "6df302a7b5f8235e4772ab2de0306588e41e54bf8c454ed5afed1a412e80b8ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4467-2026",
+   "short": "Ordenanza 4467/2026",
+   "title": "Ordenanza 4467/2026: Créase en el ámbito del Partido de Coronel Rosales el reconocimiento anual denominado “Mujeres Destacadas de la Comunidad de Coronel Rosales”, a otorgarse durante el mes de marzo de cada año, en conmemoración del Día Int",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15226/contents/2405892",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 8,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15226/contents/2405892",
+     "sha256": "c3e9799e5a2f6b3c109f61be8ad270e884975c4e0f86019834941aebc97d8966"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4478-2026",
+   "short": "Ordenanza 4478/2026",
+   "title": "Ordenanza 4478/2026: Modifíquese el Artículo 2 de la Ordenanza 4167 el cual quedará redactado de la siguiente forma:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15953/contents/2458020",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15953/contents/2458020",
+     "sha256": "82affdd1d2be7567943e74c4f581d026876637e377f5182dd768a9b2ecc8b44a"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4487-2026",
+   "short": "Ordenanza 4487/2026",
+   "title": "Ordenanza 4487/2026: Modificase el Artículo 1° de la Ordenanza 4446, con relación a las donaciones al Hospital Municipal Eva Perón, los importes consignados en los bienes el que quedará redactado de la siguiente manera:",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15972/contents/2458727",
+   "versions": [
+    {
+     "from": "2026-10-25",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15972/contents/2458727",
+     "sha256": "c90ffd5009ee1474de53decf4cecef6eb9613dae9110e372cb6ec0c461e02d73"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4488-2026",
+   "short": "Ordenanza 4488/2026",
+   "title": "Ordenanza 4488/2026: Acéptese la donación a favor de la Municipalidad de Coronel de Marina Leonardo Rosales de los incrementos percibidos en las dietas netas mensuales de los Concejales Virginia Giorno, DNI N° 24.829.163 (Legajo N° 2883); Ma",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15972/contents/2458733",
+   "versions": [
+    {
+     "from": "2026-10-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15972/contents/2458733",
+     "sha256": "d6a7ad2212f359905297ce19328ad2c81dc92e0571958f1937ee10fa0c96f2aa"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4489-2026",
+   "short": "Ordenanza 4489/2026",
+   "title": "Ordenanza 4489/2026: Acéptese formalmente, en los términos de los Artículos 57º y ccs. de la Ley Orgánica de las Municipalidades, la donación del inmueble identificado catastralmente como CIRCUNSCRIPCIÓN VI – SECCIÓN K – MANZANA 115 – PARTID",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15972/contents/2458736",
+   "versions": [
+    {
+     "from": "2026-10-25",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15972/contents/2458736",
+     "sha256": "383779cc2b5396f9e3bf5a63d18dd54139d1346d53b667fd1839017c9bba5deb"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4492-2026",
+   "short": "Ordenanza 4492/2026",
+   "title": "Ordenanza 4492/2026: Autorízase al Departamento Ejecutivo a otorgar al Hogar Convivencial Casa de Abrigo del Niño Punta Alta, con domicilio en Pasaje Gutiérrez S/N de la ciudad de Punta Alta, el uso y goce gratuito, por el término de tres (3",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15972/contents/2458748",
+   "versions": [
+    {
+     "from": "2026-10-25",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15972/contents/2458748",
+     "sha256": "48b3c871a81d45c643957e0e689e51b64d25ecee2ff563edd66b529220ebf116"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4496-2026",
+   "short": "Ordenanza 4496/2026",
+   "title": "Ordenanza 4496/2026: La presente Ordenanza declara el interés y difusión sobre acciones de concientización en lo referente a simulacros de evacuación en edificios sujetos al régimen de propiedad horizontal con el fin propender a la mejora en",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15993/contents/2460814",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 6,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15993/contents/2460814",
+     "sha256": "c16dcaa51f6f6b51e31cf5092900decc2e33e5f6ab959ddb7c39a232f5f937d0"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-4499-2026",
+   "short": "Ordenanza 4499/2026",
+   "title": "Ordenanza 4499/2026: Autorizase la financiación privada para la instalación, renovación, mantenimiento y modernización de nomencladores y garitas o paradas de transporte público de pasajeros en las vías públicas de las localidades del Partid",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/15993/contents/2460828",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 11,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/15993/contents/2460828",
+     "sha256": "77cbf25a4e0c2764b2e1c276271b3b61d753091803bc45358d050febff5afec3"
+    }
+   ]
+  }
+ ]
+}
