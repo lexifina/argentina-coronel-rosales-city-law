@@ -7,6 +7,8 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Coronel Rosales | <https://sibom.slyt.gba.gob.ar/cities/28> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Boletín Oficial Municipal de Coronel Rosales (SIBOM) | <https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380448> | 2026-11-05 | Official municipal ordinance reproduced with attribution; the source states no reuse restriction. |
+| Boletín Oficial Municipal de Coronel Rosales (SIBOM) | <https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706291> | 2026-11-05 | Official municipal ordinance reproduced with attribution; the source states no reuse restriction. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -58,7 +60,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-3789-2019` | Ordenanza 3789/2019: Acéptense las donaciones gratuitas y sin cargo, a favor de la Municipalidad de Coronel Rosales, de las esculturas realizadas en el encuentro “Primer Encuentro Nacional de Escultores: Tallando Identidad” y de las que se e | 1 | 2019-10-05 to 2019-10-05 |
 | `ordenanza-3796-2019` | Ordenanza 3796/2019: Facúltese al Departamento Ejecutivo a modificar (disminuir) el Cálculo de Recursos y Presupuesto de Gastos 2019 en la suma de PESOS CINCO MILLONES ($5.000.000).- | 1 | 2019-10-05 to 2019-10-05 |
 | `ordenanza-3799-2019` | Ordenanza 3799/2019: OBJETO Y AMBITO DE LA APLICACIÓN – La presente ordenanza regula la circulación de vehículos denominados cuatriciclos, triciclos motorizados dentro del Distrito de Coronel Rosales, sin perjuicio de las normas de tránsito  | 1 | 2019-10-18 to 2019-10-18 |
-| `ordenanza-3801-2019` | Ordenanza 3801/2019: Autorizase a partir del día 1 del mes de Febrero de 2019 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros del Distrito de Coronel Rosales: | 1 | 2019-10-18 to 2019-10-18 |
+| `ordenanza-3801-2019` | Ordenanza 3801/2019: Autorizase a partir del día 1 del mes de Febrero de 2019 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros del Distrito de Coronel Rosales: | 1 | 2019-02-01 to 2019-02-01 |
 | `ordenanza-3802-2019` | Ordenanza 3802/2019: Ratifícase la firma del Convenio Marco suscripto entre esta Comuna y el Ministerio de Justicia de la Provincia de Buenos Aires, relativo a la Cooperación Institucional entre ambas reparticiones con el objeto de crear una | 1 | 2019-10-18 to 2019-10-18 |
 | `ordenanza-3811-2019` | Ordenanza 3811/2019: Autorízase la apertura del pasaje sin nombre comprendido entre las calles Villanueva y Alem y que une las calles Brown y España de la ciudad de Punta Alta.- | 1 | 2019-10-18 to 2019-10-18 |
 | `ordenanza-3816-2019` | Ordenanza 3816/2019: La Municipalidad de Coronel Rosales se adhiere en todos su términos al Programa Nacional de Descontaminación, Compactación y Disposición Final de Vehículos y Chatarra (PRO.NA.COM) implementado por Ley Nº 26348.- | 1 | 2019-11-15 to 2019-11-15 |
@@ -131,7 +133,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-4075-2022` | Ordenanza 4075/2022: Adhiérase el Municipio de Coronel de Marina Leonardo Rosales al Decreto DECTO-2019-1790-GDEBA-GPBA que aprueba el Protocolo Provincial de Prevención, Detección y Abordaje del Abuso Sexual hacia niños, niñas o adolescente | 1 | 2022-05-19 to 2022-05-19 |
 | `ordenanza-4082-2022` | Ordenanza 4082/2022: Autorizar la reprogramación de las deudas municipales generadas en el marco del Fondo Especial de Emergencia Sanitaria para la Contención Fiscal Municipal”, creado por Decreto N° 264/20, (Ratificado por la Ley Nº 15.174) | 1 | 2022-05-19 to 2022-05-19 |
 | `ordenanza-4089-2022` | Ordenanza 4089/2022: Modifíquese el Artículo N° 23 de la ordenanza N° 3591, el que quedará redactado de la siguiente manera: | 1 | 2022-05-19 to 2022-05-19 |
-| `ordenanza-4102-2022` | Ordenanza 4102/2022: Autorizase a partir del día 1º del mes de Enero de 2022 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros del Distrito de Coronel Rosales prestado por las empresas Compañía Belgrano SA y Co | 1 | 2022-05-19 to 2022-05-19 |
+| `ordenanza-4102-2022` | Ordenanza 4102/2022: Autorizase a partir del día 1º del mes de Enero de 2022 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros del Distrito de Coronel Rosales prestado por las empresas Compañía Belgrano SA y Co | 1 | 2022-01-01 to 2022-01-01 |
 | `ordenanza-4105-2022` | Ordenanza 4105/2022: Dispóngase que, durante el año 2022, toda la documentación oficial de la administración pública local deberá llevar la leyenda “2022 – 40º Aniversario de la Gesta del Atlántico Sur, Año del Veterano y de los Caídos en la | 1 | 2022-05-19 to 2022-05-19 |
 | `ordenanza-4110-2022` | Ordenanza 4110/2022: Incorpórese y modifíquese a los Anexos I y II de la Ordenanza 2.835 las siguientes arterias con su respectivo sentido de circulación: | 1 | 2022-05-19 to 2022-05-19 |
 | `ordenanza-4112-2022` | Ordenanza 4112/2022: Publíquese en las páginas App Rosales Interactiva de estacionamiento medido y pago, Rosales Municipio y HCD Rosales, una ventana emergente que contenga la información del Anexo I.- | 1 | 2022-05-19 to 2022-05-19 |
@@ -215,7 +217,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-4496-2026` | Ordenanza 4496/2026: La presente Ordenanza declara el interés y difusión sobre acciones de concientización en lo referente a simulacros de evacuación en edificios sujetos al régimen de propiedad horizontal con el fin propender a la mejora en | 1 | 2026-10-28 to 2026-10-28 |
 | `ordenanza-4499-2026` | Ordenanza 4499/2026: Autorizase la financiación privada para la instalación, renovación, mantenimiento y modernización de nomencladores y garitas o paradas de transporte público de pasajeros en las vías públicas de las localidades del Partid | 1 | 2026-10-28 to 2026-10-28 |
 
-The build made 200 commits:
+The build made 204 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -239,7 +241,7 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d9524dcd916024f1200d53f125699a12c9e4b4ae181667cc6bb4b9f00e7bf7da` (1434444 bytes).
+- Corpus: sha256 `e173485999beebff883714e801560fc8a4ccc08314f8de63f5d1885c7713f465` (1450642 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -247,7 +249,7 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 200 versions of 200 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 200 history commits and 400 tags (history tip `df1b66f400904d15c6049e8dcb147d44ef4ce185`).
 
 ## Decisions made by hand
 
@@ -256,6 +258,10 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- ordenanza-3801-2019: use 2019-02-01 from the express fare/discount clauses; preserve legal words and original publication metadata.
+- Ordinance 3661 is excluded from these corrections: its programme start does not establish its separate promulgation-based obligation.
+- ordenanza-4102-2022: use 2022-01-01 from the express fare/discount clauses; preserve legal words and original publication metadata.
+- Ordinance 3661 is excluded from these corrections: its programme start does not establish its separate promulgation-based obligation.
 
 ## What AI did and did not do
 
@@ -267,3 +273,5 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- A model wrote metadata and verification code; no legal words were generated or changed.
+- A model wrote metadata and verification code; no legal words were generated or changed.

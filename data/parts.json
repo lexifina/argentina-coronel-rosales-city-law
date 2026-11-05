@@ -219,6 +219,18 @@
     "ordenanza-4499-2026"
    ],
    "sha256": "663b96214e161cf4a8f26c827062215eb4f74790c26287db81512e317b14f6c9"
+  },
+  "91-q230-fares-30.json": {
+   "acts": [
+    "ordenanza-3801-2019"
+   ],
+   "sha256": "ec6edb3f8677f4e20e4871aea73583020c5b7ceed7e7986efbc3168ac703baff"
+  },
+  "91-q230-fares-32.json": {
+   "acts": [
+    "ordenanza-4102-2022"
+   ],
+   "sha256": "9d007465b897ecff0bb349a8a5df033d340169b30420083df61b82eb855b77f7"
   }
  },
  "schema": 1

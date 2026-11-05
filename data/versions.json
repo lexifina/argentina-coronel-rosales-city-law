@@ -624,10 +624,10 @@
    "url": "https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380448",
    "versions": [
     {
-     "from": "2019-10-18",
+     "from": "2019-02-01",
      "units": 10,
      "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380448",
-     "sha256": "80227fb304bb37bdc2a488995559cbaee838dd8e17aa253c681dc2ec054dc450"
+     "sha256": "bc7ce20dca2e82622c60a38f006a02b59387e9baf52556b111711217f15dc855"
     }
    ]
   },
@@ -1646,10 +1646,10 @@
    "url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706291",
    "versions": [
     {
-     "from": "2022-05-19",
+     "from": "2022-01-01",
      "units": 6,
      "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706291",
-     "sha256": "17aae85bd37f11aeb4ba9d793efc2b574aadacee9bf4a2d287c8d9527b2b909d"
+     "sha256": "048dec534a8775995e4634c96b61e372cdc87e88602382c5737ffb8afe5416ca"
     }
    ]
   },

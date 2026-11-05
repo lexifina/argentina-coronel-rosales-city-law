@@ -1,6 +1,6 @@
 # Ordenanza 3801/2019: Autorizase a partir del día 1 del mes de Febrero de 2019 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros del Distrito de Coronel Rosales:
 
-Ordenanza 3801/2019 · 1 versions, from 2019-10-18 (latest in force: 2019-10-18) · <https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380448>
+Ordenanza 3801/2019 · 1 versions, from 2019-02-01 (latest in force: 2019-02-01) · <https://sibom.slyt.gba.gob.ar/bulletins/2710/contents/1380448>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

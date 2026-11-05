@@ -1,6 +1,6 @@
 # Ordenanza 4102/2022: Autorizase a partir del día 1º del mes de Enero de 2022 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros del Distrito de Coronel Rosales prestado por las empresas Compañía Belgrano SA y Co
 
-Ordenanza 4102/2022 · 1 versions, from 2022-05-19 (latest in force: 2022-05-19) · <https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706291>
+Ordenanza 4102/2022 · 1 versions, from 2022-01-01 (latest in force: 2022-01-01) · <https://sibom.slyt.gba.gob.ar/bulletins/5980/contents/1706291>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
