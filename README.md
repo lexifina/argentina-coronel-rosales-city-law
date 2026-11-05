@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-200 ordinances so far, in force from 3 September 2019 to 28 October 2026, each as published in the Boletín Oficial Municipal de Coronel Rosales, added in parts.
+200 ordinances so far, in force from 1 February 2019 to 28 October 2026, each as published in the Boletín Oficial Municipal de Coronel Rosales, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-3789-2019/` | Ordenanza 3789/2019: Acéptense las donaciones gratuitas y sin cargo, a favor de la Municipalidad de Coronel Rosales, de las esculturas realizadas en el encuentr… | in force 5 October 2019 |
 | `ordenanza-3796-2019/` | Ordenanza 3796/2019: Facúltese al Departamento Ejecutivo a modificar (disminuir) el Cálculo de Recursos y Presupuesto de Gastos 2019 en la suma de PESOS CINCO M… | in force 5 October 2019 |
 | `ordenanza-3799-2019/` | Ordenanza 3799/2019: OBJETO Y AMBITO DE LA APLICACIÓN – La presente ordenanza regula la circulación de vehículos denominados cuatriciclos, triciclos motorizados… | in force 18 October 2019 |
-| `ordenanza-3801-2019/` | Ordenanza 3801/2019: Autorizase a partir del día 1 del mes de Febrero de 2019 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros d… | in force 18 October 2019 |
+| `ordenanza-3801-2019/` | Ordenanza 3801/2019: Autorizase a partir del día 1 del mes de Febrero de 2019 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros d… | in force 1 February 2019 |
 | `ordenanza-3802-2019/` | Ordenanza 3802/2019: Ratifícase la firma del Convenio Marco suscripto entre esta Comuna y el Ministerio de Justicia de la Provincia de Buenos Aires, relativo a … | in force 18 October 2019 |
 | `ordenanza-3811-2019/` | Ordenanza 3811/2019: Autorízase la apertura del pasaje sin nombre comprendido entre las calles Villanueva y Alem y que une las calles Brown y España de la ciuda… | in force 18 October 2019 |
 | `ordenanza-3816-2019/` | Ordenanza 3816/2019: La Municipalidad de Coronel Rosales se adhiere en todos su términos al Programa Nacional de Descontaminación, Compactación y Disposición Fi… | in force 15 November 2019 |
@@ -129,7 +129,7 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-4075-2022/` | Ordenanza 4075/2022: Adhiérase el Municipio de Coronel de Marina Leonardo Rosales al Decreto DECTO-2019-1790-GDEBA-GPBA que aprueba el Protocolo Provincial de P… | in force 19 May 2022 |
 | `ordenanza-4082-2022/` | Ordenanza 4082/2022: Autorizar la reprogramación de las deudas municipales generadas en el marco del Fondo Especial de Emergencia Sanitaria para la Contención F… | in force 19 May 2022 |
 | `ordenanza-4089-2022/` | Ordenanza 4089/2022: Modifíquese el Artículo N° 23 de la ordenanza N° 3591, el que quedará redactado de la siguiente manera: | in force 19 May 2022 |
-| `ordenanza-4102-2022/` | Ordenanza 4102/2022: Autorizase a partir del día 1º del mes de Enero de 2022 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros de… | in force 19 May 2022 |
+| `ordenanza-4102-2022/` | Ordenanza 4102/2022: Autorizase a partir del día 1º del mes de Enero de 2022 el siguiente cuadro tarifario para el servicio de Transporte Urbano de Pasajeros de… | in force 1 January 2022 |
 | `ordenanza-4105-2022/` | Ordenanza 4105/2022: Dispóngase que, durante el año 2022, toda la documentación oficial de la administración pública local deberá llevar la leyenda “2022 – 40º … | in force 19 May 2022 |
 | `ordenanza-4110-2022/` | Ordenanza 4110/2022: Incorpórese y modifíquese a los Anexos I y II de la Ordenanza 2.835 las siguientes arterias con su respectivo sentido de circulación: | in force 19 May 2022 |
 | `ordenanza-4112-2022/` | Ordenanza 4112/2022: Publíquese en las páginas App Rosales Interactiva de estacionamiento medido y pago, Rosales Municipio y HCD Rosales, una ventana emergente … | in force 19 May 2022 |
